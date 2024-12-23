@@ -1,0 +1,144 @@
+.login-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f7f9fc;
+    font-family: 'Arial', sans-serif;
+    padding: 0 20px;
+  }
+  
+  .login-container {
+    background-color: white;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 450px;
+  }
+  
+  .login-heading {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .l-form-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .l-form-group {
+    margin-bottom: 20px;
+  }
+  
+  .l-labels {
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .l-input {
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 100%;
+    transition: border-color 0.3s;
+  }
+  
+  .l-input:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  .l-log-in-btn  {
+    background-color: #007bff;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100%;
+  }
+  
+  .l-log-in-btn :hover {
+    background-color: #0056b3;
+  }
+  
+  .l-remember-forgot-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .l-forgot {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .l-forgot:hover {
+    text-decoration: underline;
+  }
+  
+  .l-social-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+  }
+  
+  .l-social-btn {
+    flex: 1;
+    margin: 0 5px;
+    border: none;
+    border-radius: 4px;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .l-social-btn:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .l-social-icon {
+    width: 20px;
+    margin-right: 5px;
+  }
+  
+  .l-link-button {
+    color: #007bff;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  .l-link-button:hover {
+    text-decoration: underline;
+  }
+  
+  .error-message {
+    color: red; /* Error message color */
+    font-size: 12px; /* Smaller font size for error */
+    margin-bottom: 10px; /* Spacing below the error message */
+  }
+  
+  /* Media Queries for responsiveness */
+  @media (max-width: 480px) {
+    .login-container {
+      padding: 20px;
+    }
+  
+    .l-social-container {
+      flex-direction: column;
+    }
+  
+    .l-social-btn {
+      margin: 5px 0;
+      width: 100%;
+    }
+  }
+  

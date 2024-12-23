@@ -1,0 +1,324 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&family=Oswald:wght@200..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    margin: 0;
+
+}
+.container1{
+    height: 30vh;
+    margin-top: 150px;
+    margin-left: 150px;
+}
+.container1 .protect{
+    color: rgb(54, 155, 61);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 20px 40px ;
+    font-size: large;
+    
+}
+.container1 #up{
+    color: rgb(15, 23, 42);
+    font-size: 60px;
+    line-height: 60px;
+    font-weight: 600;
+    font-family: Raleway,system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 20px 40px ;
+}
+.container1 .upl{
+    color:  rgb(51, 65, 85);
+    font-weight: 400;
+    font-family: Raleway,system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 8px 40px ;
+    font-size: large;
+
+
+
+}
+.container2{
+    height: 70vh;
+    display: flex;
+    background-color: #ebffe8;
+    margin-bottom: 80px;
+}
+.container2 .img .imgs{
+    height: 90%;
+    width: 30vw;
+    border-radius: 10px;
+
+}
+.container2 .img {
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-right: 70px;
+    margin-bottom: 50px;
+}
+#list{
+    color: rgb(15, 23, 42);
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 28px;
+    font-family: Raleway,sans-serif;
+}
+.how{
+    color: rgb(15, 23, 42);
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 40px;
+    font-family: Raleway,ui-sans-serif, system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    padding-bottom: 30px;
+    padding-bottom: 9%;
+}
+.txt{
+    margin-top: 5%;
+    margin-left: 5%;
+    /* background-color: #333333; */
+    height: 60%;
+}
+.in span{
+    color: #4caf50;
+    font-family: Raleway,sans-serif;
+}
+.in{
+    padding-bottom: 15%;
+    font-size: 26px;
+}
+.b{
+    color: #4caf50;
+    padding-bottom: 1%;
+    font-size: 16px;
+}
+
+.w{
+    color:rgb(17,24,39);
+    line-height:40px;
+    font-size:36px;
+    font-weight:700;
+    padding-bottom: 1%;
+
+
+}
+.o{
+    padding-bottom: 1%;
+    font-size: 18px;
+
+
+}
+.container3{
+    padding-bottom: 70px;
+}
+.why{
+    text-align: center;
+    font-family: Raleway,system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.box .box1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.container4{
+    height:60vh;
+    display: flex;
+    background-color: #0a5f17;
+    font-family: Raleway,sans-serif;
+}
+.container4 .i img{
+    width: 40vw;
+    height: 100%;
+    margin-left: 0;
+
+}
+.container4 .txts{
+    height: 100%;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.container4 .txts .q{
+    color: #64bf65;
+    font-size: 20px;
+    padding-bottom: 30px;
+    
+}
+.container4 .txts .r{
+    color:rgb(255, 255, 255);
+    font-size: 40px;
+    padding-bottom: 40px;
+}
+.container4 .txts .up{
+    color:#d1d5db;
+    font-size: 20px;
+    padding-bottom: 40px;
+
+}
+.container4 .btn{
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: #4caf50;
+    border-color: #4caf50;
+    cursor: pointer;
+    
+}
+.container4 .btn .btn1{
+    color: rgb(255, 255,255);
+    font-size: medium;
+
+}
+.container5{
+    background-color: #ebffe8;
+    font-family: Raleway,sans-serif;
+    height: 30vh;
+    padding-top: 70px;
+}
+.container5 .sm{
+    text-align: center;
+    color: #475569;
+}
+.container5 ul li{
+    cursor: pointer;
+    padding-left: 30px;
+    list-style-type: none;
+}
+.container5 ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.con{
+    justify-items: center;
+    margin: 5%;
+}
+.features-container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    gap: 70px;
+    font-family: Raleway;
+}
+
+.feature {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    flex: 1 1 45%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.icon {
+    font-size: 2.5rem;
+    color: #4caf50; /* Green color for icons */
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+    color: #333333;
+}
+
+p {
+    font-size: 0.9rem;
+    color: #666666;
+}
+/* Media Query for Devices with a Max Width of 768px (Tablets and Mobile Devices) */
+@media only screen and (max-width: 768px) {
+    .container1, .container2, .container4, .container5 {
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 20px;
+    }
+    
+    .container1 {
+        height: auto; 
+    }
+
+    .container1 #up {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .container1 .upl {
+        font-size: 18px; 
+    }
+
+    .container2 {
+        flex-direction: column; 
+        align-items: center; 
+    }
+
+    .container2 .img .imgs {
+        width: 80vw;
+        height: auto; 
+    }
+
+    #list {
+        font-size: 24px; 
+    }
+
+    .container4 {
+        flex-direction: column; 
+        align-items: center; 
+        height: auto;
+        margin-top: 40px; 
+    }
+
+    .container4 .txts {
+        margin-left: 0;
+        margin-top: 20px; 
+    }
+
+    .container4 .btn {
+        width: 100%; 
+        margin-top: 20px; 
+    }
+
+    .container5 ul {
+        flex-direction: column; 
+        align-items: center;
+    }
+
+    .container5 ul li {
+        padding: 10px 0; 
+    }
+
+    .features-container {
+        flex-direction: column; 
+        align-items: center; 
+        gap: 20px; 
+    }
+}
+
+
+@media only screen and (max-width: 480px) {
+    .container1 #up {
+        font-size: 32px; 
+    }
+
+    .container1 .upl {
+        font-size: 16px; 
+    }
+
+    #list {
+        font-size: 20px;
+    }
+
+    .container4 .txts .q {
+        font-size: 18px; 
+    }
+
+    .container4 .txts .r {
+        font-size: 32px; 
+    }
+
+    .container4 .txts .up {
+        font-size: 16px; 
+    }
+}

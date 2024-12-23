@@ -1,0 +1,21 @@
+.navbar {
+    padding: 1rem;
+  }
+  
+  .text-danger {
+    color: red !important;
+  }
+  
+  .navbar-nav .nav-link {
+    margin-right: 15px;
+  }
+  
+  .nav-dropdown:hover {
+    cursor: pointer;
+  }
+  
+  .username {
+    padding: 10px;
+  }
+  
+

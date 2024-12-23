@@ -1,0 +1,252 @@
+.Profile{
+    padding: 20px;
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+}
+
+  
+  .card-info p {
+    color: black;
+  }
+  
+
+  
+  .card:hover::before {
+    width: 350px;
+    height: 300px;
+    border-bottom: none;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    transform: scale(0.95);
+  }
+  
+  .card:hover .card-info {
+    transform: translate(0%,-25%);
+  }
+  
+  .card:hover .image {
+    transform: scale(2) translate(-60%,-40%);
+  }
+  
+
+  .card a{
+    font-weight: 550;
+  }
+
+  
+
+  .Profile {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: #cfecd7;
+    box-sizing: border-box;
+  }
+  
+  .card {
+    width: 90%;
+    max-width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+    background-color: #fff;
+    border-radius: 15px;
+    overflow: hidden;
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid rgb(23, 175, 81);
+    font-weight: 200;
+    margin: 20px 0;
+    position: relative;
+  }
+
+
+  .card::before {
+    content: "";
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    top: 0;
+    background: url("https://res.cloudinary.com/dgsr46f8t/image/upload/v1732443807/vnVQIrybCPt8PgBZdsGeu_hj0tzu.png");
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    transition: all 0.5s ease;
+  }
+  
+  .card * {
+    z-index: 1;
+  }
+  .one-line-description {
+    white-space: nowrap;        
+    overflow: hidden;            
+    text-overflow: ellipsis;     
+  }
+  
+  .image {
+    width: 90px;
+    height: 90px;
+    background: url("https://avatar.iran.liara.run/public/boy?username=jashwanth");
+    background-size: cover;
+    border-radius: 50%;
+    border: 4px solid #fff;
+    margin-top: 30px;
+    transition: all 0.5s ease;
+  }
+  
+  .card-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    background-color: #aeeda2;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-info span {
+    font-weight: 700;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  /* .card-info p {
+    color: #555;
+  } */
+  
+  .button-card {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  
+  .card a {
+    text-decoration: none;
+    font-weight: 550;
+    font-size: 14px;
+    background-color: #9cd6c1a2;
+    color: #111;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: 1px solid white;
+    transition: all 0.3s ease;
+  }
+  
+  .card a:hover {
+    transform: scale(1.1);
+  }
+  
+  .button-edit:hover {
+    background-color: #1fb955;
+    color: #fff;
+  }
+  
+  .button-delete:hover {
+    background-color: #367eca;
+    color: #fff;
+  }
+  
+  .button-logout:hover {
+    background-color: #e7553b;
+    color: #fff;
+  }
+  
+  .info {
+    width: 90%;
+    max-width: 800px;
+    margin-top: 20px;
+  }
+  
+  .info-card {
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .info-card h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .info-card ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .info-card li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+  }
+  
+  .info-card li:last-child {
+    border-bottom: none;
+  }
+  
+  .info-card .upload-date {
+    color: #888;
+  }
+
+@media(min-width : 1024px){
+    .Profile{
+        width: 100vw;
+    }
+}
+
+  @media (max-width: 768px) {
+    .Profile {
+      height: auto;
+      padding: 10px;
+    }
+  
+    .card {
+      width: 100%;
+      margin: 10px 0;
+    }
+  
+    .info-card {
+      width: 100%;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .card-info span {
+      font-size: 16px;
+    }
+  
+    .card-info p {
+      font-size: 12px;
+    }
+  
+    .card a {
+      font-size: 12px;
+      padding: 5px 10px;
+    }
+  
+    .info-card li {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .info-card li .upload-date {
+      margin-top: 5px;
+      font-size: 12px;
+    }
+  }
+  
