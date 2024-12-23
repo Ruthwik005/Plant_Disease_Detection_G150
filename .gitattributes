@@ -1,0 +1,7 @@
+Frontend/node_modules/.cache/default-development/* filter=lfs diff=lfs merge=lfs -text
+Frontend/Flask/venv/Lib/site-packages/torch/lib/dnnl.lib filter=lfs diff=lfs merge=lfs -text
+Frontend/Flask/venv/Lib/site-packages/torch/lib/torch_cpu.dll filter=lfs diff=lfs merge=lfs -text
+Frontend/src/Flask/plant_disease_model_1_latest.pt filter=lfs diff=lfs merge=lfs -text
+Frontend/src/Flask/blip-image-captioning-base/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+Frontend/src/Flask/venv/Lib/site-packages/torch/lib/dnnl.lib filter=lfs diff=lfs merge=lfs -text
+Frontend/src/Flask/venv/Lib/site-packages/torch/lib/torch_cpu.dll filter=lfs diff=lfs merge=lfs -text
