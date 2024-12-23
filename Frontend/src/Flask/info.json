@@ -1,0 +1,2045 @@
+{
+  "0": {
+    "disease_name": "Apple : Scab",
+    "description": "Apple scab is a fungal disease that affects apple trees. It can cause olive-green to brown spots on leaves and fruit, leading to early leaf fall.",
+    "possible_steps": "Choose resistant varieties, prune affected areas, use fungicides.",
+    "image_url": "https://ag.umass.edu/sites/ag.umass.edu/files/fact-sheets/images/apple-scab_02a.jpg",
+    "symptoms": [
+      "Olive green to brown spots on leaves",
+      "Yellowing of leaves",
+      "Scabby fruit"
+    ],
+    "best_time_for_treatment": "Early spring, before the buds break",
+    "affected_parts": ["Leaves", "Fruit"],
+    "susceptible_crops": ["Apple", "Crabapple"],
+    "severity_level": "Moderate",
+    "environment_conditions": ["High humidity", "Frequent rainfall"],
+    "regional_prevalence": [
+      "High in areas with long rainy seasons",
+      "Common in humid climates"
+    ],
+    "treatment_guidelines": [
+      "Prune infected branches",
+      "Apply fungicide early in the season",
+      "Remove fallen leaves to reduce spread"
+    ],
+    "preventive_measures": [
+      "Choose disease-resistant varieties",
+      "Space trees to improve airflow",
+      "Practice crop rotation"
+    ],
+    "remedies": ["Copper-based fungicide", "Sulfur-based fungicide"],
+    "link_to_detailed_guide": "https://extension.umn.edu/plant-diseases/apple-scab",
+    "common_mistakes": [
+      "Delaying fungicide application until symptoms appear",
+      "Ignoring early signs of infection"
+    ],
+    "disease_transmission_method": "Spread through wind, rain, and infected plant debris",
+    "treatment_duration": "2-3 weeks depending on weather conditions",
+    "treatment_cost": "₹500-₹1000 per acre for fungicides",
+    "cultural_practices": [
+      "Remove infected leaves and fruit",
+      "Prune trees to improve air circulation"
+    ],
+    "impact_on_yield": "Up to 30% loss if untreated",
+    "treatment_effectiveness": "High if applied early in the season",
+    "disease_lifecycle": "Spores form in the spring, infect leaves and fruit",
+    "signs_of_resistance": "Reduced effectiveness of fungicides after repeated use",
+    "nutrient_deficiencies_linked": "Common in nitrogen-deficient soils",
+    "post_treatment_care": "Prune any affected parts after treatment to encourage healthy growth",
+    "affected_region_seasons": "Common in early spring and late fall",
+    "research_and_studies": [
+      "https://example.com/apple-scab-research-paper1",
+      "https://example.com/apple-scab-research-paper2"
+    ],
+    "soil_ph_range": "5.5 to 6.5 for optimal growth and disease prevention",
+    "watering_advice": "Avoid over-watering as it can create favorable conditions for fungal growth",
+    "historical_data": "High occurrence in humid climates during wet seasons"
+  },
+  "1": {
+    "disease_name": "Apple : Black Rot",
+    "description": "Leaf symptoms first occur early in the spring when the leaves are unfolding. They appear as small, purple specks on the upper surface of the leaves that enlarge into circular lesions 1/8 to 1/4 inch (3-6 mm) in diameter. The margin of the lesions remains purple, while the center turns tan to brown. Heavily infected leaves become chlorotic and defoliation occurs. Black pycnidia are often seen on the surface of the infected fruit.",
+    "possible_steps": [
+      "Prune infected cankers at least 15 inches below the end and burn or bury them.",
+      "Use copper-based fungicides to protect against both black rot and fire blight."
+    ],
+    "image_url": "https://www.researchgate.net/publication/373166181/figure/fig1/AS:11431281181941231@1692255891213/Apple-black-rot-figure-1-shows-apple-black-rot-while-preprocessing-an-infected-leaf.jpg",
+    "symptoms": [
+      "Purple specks that enlarge into circular lesions",
+      "Chlorotic leaves and defoliation",
+      "Black pycnidia on infected fruit"
+    ],
+    "best_time_for_treatment": "Before symptoms appear in early spring",
+    "affected_parts": ["Leaves", "Fruit"],
+    "susceptible_crops": ["Apple", "Crabapple"],
+    "severity_level": "Moderate to severe if untreated",
+    "environment_conditions": ["Warm, humid conditions favor disease spread"],
+    "regional_prevalence": "Common in humid climates with frequent rainfall",
+    "remedies": ["Use copper-based fungicides", "Prune infected areas"],
+    "preventive_measures": [
+      "Prune trees to improve airflow",
+      "Apply fungicides before disease onset"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/plant-diseases/black-rot-apple",
+    "common_mistakes": [
+      "Ignoring early season applications of fungicides",
+      "Failing to prune infected cankers"
+    ],
+    "treatment_duration": "1-2 weeks of fungicide applications",
+    "treatment_cost": "₹500-₹1000 per acre for fungicides",
+    "disease_transmission_method": "Spores spread by wind and water",
+    "cultural_practices": [
+      "Regular pruning to remove infected cankers",
+      "Dispose of infected plant material properly"
+    ],
+    "impact_on_yield": "Can cause severe crop loss if untreated",
+    "treatment_effectiveness": "Highly effective with early fungicide application",
+    "signs_of_resistance": "Resistance is rare in most apple varieties",
+    "nutrient_deficiencies_linked": "Can be exacerbated by poor soil nutrition, especially nitrogen imbalances",
+    "post_treatment_care": "Continue monitoring for symptoms and reapply fungicides as needed",
+    "affected_region_seasons": "Spring through early summer",
+    "research_and_studies": [
+      "https://example.com/black-rot-study-1",
+      "https://example.com/black-rot-study-2"
+    ],
+    "soil_ph_range": "6.0 to 7.0 for optimal apple growth",
+    "watering_advice": "Water at the base to avoid wetting the foliage",
+    "historical_data": "Black rot has been a recurring problem in humid climates for decades"
+  },
+  "2": {
+    "disease_name": "Apple : Cedar Rust",
+    "description": "Cedar apple rust (Gymnosporangium juniperi-virginianae) is a fungal disease that requires juniper plants to complete its complicated two year life-cycle. Spores overwinter as a reddish-brown gall on young twigs of various juniper species. In early spring, during wet weather, these galls swell and bright orange masses of spores are blown by the wind where they infect susceptible apple and crab-apple trees. The spores that develop on these trees will only infect junipers the following year. From year to year, the disease must pass from junipers to apples to junipers again; it cannot spread between apple trees.",
+    "possible_steps": [
+      "Choose resistant cultivars when available.",
+      "Rake up and dispose of fallen leaves and other debris from under trees.",
+      "Remove galls from infected junipers.",
+      "In some cases, remove juniper plants entirely.",
+      "Apply preventative, disease-fighting fungicides labeled for use on apples weekly, starting with bud break, to protect trees from spores being released by the juniper host.",
+      "Control rust on junipers by spraying with a copper solution (0.5 to 2.0 oz/gallon of water) at least four times between late August and late October.",
+      "Use SERENADE Garden bio-fungicide for organic treatment, which is non-toxic to honey bees and beneficial insects."
+    ],
+    "image_url": "https://www.missouribotanicalgarden.org/Portals/0/Kemper%20Gardens/Pest%20Images/Diseases/Cedar%20Apple%20Rust/Cedar%20apple%20rust%20(DM)%20(11).JPG?ver=nAW8wtE9qhwxaMIZjAM5pA%3D%3D",
+    "symptoms": [
+      "Orange, rust-colored spots on apple leaves and fruit",
+      "Deformed or damaged apple leaves",
+      "Infected twigs on junipers",
+      "Reddish-brown galls on juniper plants"
+    ],
+    "best_time_for_treatment": "Starting with bud break in spring, continue weekly fungicide applications until spores are no longer released",
+    "affected_parts": ["Leaves", "Fruit", "Twigs of juniper"],
+    "susceptible_crops": ["Apple", "Crabapple", "Juniper"],
+    "severity_level": "Moderate to severe if untreated",
+    "environment_conditions": [
+      "Wet weather in early spring",
+      "Windy conditions for spore spread"
+    ],
+    "regional_prevalence": "Common in areas with juniper trees and wet springs",
+    "remedies": [
+      "Use copper-based fungicides on junipers",
+      "Fungicide application on apple trees during bud break"
+    ],
+    "preventive_measures": [
+      "Choose resistant apple varieties",
+      "Remove fallen debris and infected plant material",
+      "Spray fungicides starting at bud break"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/plant-diseases/cedar-apple-rust",
+    "common_mistakes": [
+      "Failing to apply fungicide early enough",
+      "Not removing infected junipers or galls",
+      "Ignoring fallen leaves and debris"
+    ],
+    "treatment_duration": "1-2 weeks of weekly fungicide applications",
+    "treatment_cost": "₹500-₹1500 per acre for fungicides",
+    "disease_transmission_method": "Wind-spread spores from junipers to apple trees",
+    "cultural_practices": [
+      "Prune infected apple and juniper trees regularly",
+      "Dispose of infected plant material properly"
+    ],
+    "impact_on_yield": "Can cause reduced apple yield and quality if untreated",
+    "treatment_effectiveness": "Effective if fungicide is applied early and consistently",
+    "signs_of_resistance": "Limited resistance, especially in susceptible apple varieties",
+    "nutrient_deficiencies_linked": "Can be exacerbated by excessive nitrogen fertilizer applications",
+    "post_treatment_care": "Continue to prune infected branches and clean up fallen debris",
+    "affected_region_seasons": "Spring for apple infections, late summer to fall for juniper control",
+    "research_and_studies": [
+      "https://example.com/cedar-rust-study-1",
+      "https://example.com/cedar-rust-study-2"
+    ],
+    "soil_ph_range": "6.0 to 7.5 for optimal apple tree growth",
+    "watering_advice": "Avoid overhead watering to reduce moisture on leaves",
+    "historical_data": "Cedar rust has been a recurring problem in apple orchards near juniper habitats"
+  },
+  "3": {
+    "disease_name": "Apple : Healthy",
+    "description": "Apple trees thrive when grown in full sun, receiving six or more hours of direct sunlight daily during the summer. They perform best on the north side of a house, tree line, or rise, rather than on the south side. Apple trees require well-drained soil with the capacity to retain some moisture. Apples are nutritious and linked to several health benefits, including weight loss, heart health, and reduced risk of diabetes. They may also have prebiotic effects, support gut health, and contain substances that may help prevent cancer.",
+    "possible_steps": [
+      "Ensure six or more hours of full sun daily during summer",
+      "Plant on the north side of a house or tree line for optimal exposure",
+      "Provide well-drained soil that retains some moisture",
+      "Water regularly to maintain consistent soil moisture without waterlogging"
+    ],
+    "image_url": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-apple/Applescab.jpg",
+    "symptoms": [
+      "Healthy green foliage",
+      "Strong branches supporting fruit",
+      "Bright, well-formed apples"
+    ],
+    "best_time_for_treatment": "During the growing season and when planting for long-term maintenance",
+    "affected_parts": ["Leaves", "Fruit"],
+    "susceptible_crops": ["Apples"],
+    "severity_level": "Low (this refers to healthy plant care, not a disease)",
+    "environment_conditions": ["Full sun exposure", "Well-drained, moist soil"],
+    "regional_prevalence": "Global, with suitable climates supporting apple growth",
+    "remedies": [
+      "Optimize sunlight exposure by planting in a sunny location",
+      "Use well-drained soil to prevent waterlogging"
+    ],
+    "preventive_measures": [
+      "Choose the planting location wisely to maximize sunlight",
+      "Regularly monitor soil moisture levels"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/fruit/growing-apples",
+    "common_mistakes": [
+      "Planting in shaded areas with limited sunlight",
+      "Allowing soil to become waterlogged or too dry"
+    ],
+    "treatment_duration": "Throughout the growing season and year-round maintenance",
+    "treatment_cost": "Low, involving basic care and consistent maintenance",
+    "disease_transmission_method": "Not applicable, as this refers to healthy plant care",
+    "cultural_practices": [
+      "Prune trees to ensure good airflow and sunlight penetration",
+      "Inspect for pests and diseases regularly"
+    ],
+    "impact_on_yield": "Positive, with proper care ensuring healthy apple production",
+    "treatment_effectiveness": "High, when environmental and care conditions are met",
+    "signs_of_resistance": "Not applicable to healthy care",
+    "post_treatment_care": "Continue to monitor sunlight exposure and soil moisture",
+    "affected_region_seasons": "Spring to fall for most regions with seasonal apple production",
+    "research_and_studies": [
+      "Studies on the effects of sunlight and soil management on apple growth"
+    ]
+  },
+  "4": {
+    "description": "There is no leaf in the given image.",
+    "action_required": "Please reupload the image with a leaf.",
+    "image_url": "https://cdn.onlinewebfonts.com/svg/img_332817.png"
+  },
+  "5": {
+    "disease_name": "Blueberry : Healthy",
+    "description": "Blueberries are known for their numerous health benefits, being low in calories but high in nutrients. They are a powerful source of antioxidants, which help reduce DNA damage and protect against aging and cancer. Blueberries also help lower blood pressure and protect cholesterol in the blood from becoming damaged.",
+    "possible_steps": [
+      "Apply deep, low pH mulch like peat moss, pine needles, or well-aged sawdust to conserve water and minimize soil water fluctuations.",
+      "Water blueberry plants during the day and keep the soil moist but not soggy.",
+      "Ensure the plants receive at least 1 inch of water per week during the growing season and up to 4 inches per week during fruit ripening.",
+      "Plant blueberries in well-drained soils that do not stay wet; avoid heavy, clayey soils."
+    ],
+    "image_url": "https://content.ces.ncsu.edu/media/images/anthracnose_and_septoria_leaf_spots.jpeg",
+    "symptoms": [
+      "Healthy, vibrant plant growth",
+      "Abundant fruit production",
+      "Green, undamaged leaves"
+    ],
+    "best_time_for_treatment": "Throughout the growing season, especially during fruit ripening",
+    "affected_parts": ["Leaves", "Roots", "Fruits"],
+    "susceptible_crops": ["Blueberries"],
+    "severity_level": "Low (this refers to healthy plant care, not a disease)",
+    "environment_conditions": [
+      "Moist but well-drained soils",
+      "Low pH soil conditions",
+      "Daytime watering to prevent fungal issues"
+    ],
+    "regional_prevalence": "Widely grown in regions with acidic soil and moderate climates",
+    "remedies": [
+      "Use proper mulching techniques to maintain soil conditions",
+      "Water regularly without waterlogging the soil",
+      "Avoid planting in heavy, clay soils"
+    ],
+    "preventive_measures": [
+      "Maintain soil pH levels suitable for blueberries",
+      "Use mulching to regulate soil moisture and temperature"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/fruit/growing-blueberries-home-garden",
+    "common_mistakes": [
+      "Overwatering, causing soggy soil",
+      "Planting in unsuitable clayey soils",
+      "Neglecting mulch application"
+    ],
+    "treatment_duration": "Ongoing throughout the growing season",
+    "treatment_cost": "Low, requiring regular care and mulching materials",
+    "disease_transmission_method": "Not applicable as this refers to general healthy care",
+    "cultural_practices": [
+      "Apply mulch to conserve moisture and improve soil conditions",
+      "Regularly water to maintain consistent soil moisture levels"
+    ],
+    "impact_on_yield": "High, with proper care leading to abundant blueberry production",
+    "treatment_effectiveness": "High, with consistent maintenance ensuring plant health",
+    "signs_of_resistance": "Not applicable, focusing on healthy plant care",
+    "nutrient_deficiencies_linked": "Low soil pH supports proper nutrient absorption",
+    "post_treatment_care": "Monitor soil moisture and pH levels regularly",
+    "affected_region_seasons": "Most productive during the growing season in temperate climates",
+    "research_and_studies": [
+      "Studies on the antioxidant properties of blueberries and optimal farming practices"
+    ]
+  },
+  "6": {
+    "disease_name": "Cherry : Powdery Mildew",
+    "description": "Powdery mildew on cherry trees initially appears as light, roughly circular, powdery patches on young, susceptible leaves. Older leaves develop resistance to infection. The disease thrives in high humidity, and infections are often seen on the undersides of leaves but can spread to both sides. Severe infections can lead to distorted, curled, and puckered leaves. Newly developed leaves on affected shoots may appear pale, smaller, and distorted.",
+    "possible_steps": [
+      "Disinfect cutting tools before use to avoid spreading the disease.",
+      "Prune out and discard diseased portions of the plant immediately.",
+      "Apply fungicides to protect the remaining leaves and repeat applications as per label instructions.",
+      "Maintain good air circulation within the canopy to reduce humidity.",
+      "Monitor trees regularly for signs of new infections."
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaP_16Bt5D7koc9YdBVdJP3ImdYr_aYg3Wmg&s",
+    "symptoms": [
+      "Powdery patches on young leaves",
+      "Distorted and curled leaves",
+      "Smaller, pale, and twisted newly developed leaves",
+      "Leaf puckering and twisting in severe cases"
+    ],
+    "best_time_for_treatment": "At the onset of the first symptoms and throughout the growing season as needed",
+    "affected_parts": ["Leaves", "Shoots"],
+    "susceptible_crops": ["Cherries"],
+    "severity_level": "Moderate to High, depending on the stage of infection and management practices",
+    "environment_conditions": [
+      "High humidity",
+      "Warm temperatures",
+      "Poor air circulation"
+    ],
+    "regional_prevalence": "Common in regions with warm, humid climates",
+    "remedies": [
+      "Pruning and removal of infected portions",
+      "Application of fungicides to protect healthy leaves",
+      "Improving airflow within the tree canopy"
+    ],
+    "preventive_measures": [
+      "Avoid overhead irrigation to minimize humidity.",
+      "Space trees adequately to promote airflow.",
+      "Apply preventive fungicides during high-risk periods."
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/plant-diseases/powdery-mildew-trees-and-shrubs",
+    "common_mistakes": [
+      "Delaying treatment until the infection is widespread",
+      "Neglecting to disinfect pruning tools",
+      "Overlooking regular fungicide applications"
+    ],
+    "treatment_duration": "Throughout the growing season, with repeated fungicide applications as needed",
+    "treatment_cost": "Moderate, depending on fungicide and labor costs",
+    "disease_transmission_method": "Spread by wind-borne spores",
+    "cultural_practices": [
+      "Regular pruning to maintain air circulation",
+      "Avoiding over-fertilization, which promotes susceptible new growth"
+    ],
+    "impact_on_yield": "High, with untreated infections significantly reducing fruit quality and quantity",
+    "treatment_effectiveness": "High, when managed promptly with pruning and fungicides",
+    "signs_of_resistance": "Older leaves naturally develop resistance (ontogenic resistance)",
+    "nutrient_deficiencies_linked": "Not directly linked but excessive nitrogen can increase susceptibility",
+    "post_treatment_care": "Monitor for re-infection and maintain good hygiene practices",
+    "affected_region_seasons": "Most prevalent during the growing season in humid and warm regions",
+    "research_and_studies": [
+      "Research on fungal resistance management in fruit trees"
+    ]
+  },
+  "7": {
+    "disease_name": "Cherry : Healthy",
+    "description": "There is no difference in care between sour and sweet cherries. Cherry trees thrive with routine care that includes mulching to retain moisture, draping netting to protect fruit from birds, and regular watering in dry areas. Thinning the fruit is typically unnecessary as the trees naturally thin during early summer.",
+    "possible_steps": [
+      "Apply mulch to retain soil moisture and regulate temperature.",
+      "Use bird netting to protect ripening cherries from being eaten.",
+      "Water the tree regularly, especially in dry climates or during droughts.",
+      "Avoid unnecessary thinning as the tree self-thins naturally in early summer."
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Cherry_X_Disease.jpg",
+    "symptoms": [
+      "Healthy, vigorous growth",
+      "Abundant fruit production",
+      "Shiny, deep green leaves",
+      "High fruit quality with vibrant color"
+    ],
+    "best_time_for_treatment": "Ongoing care throughout the growing season",
+    "affected_parts": ["Fruits", "Leaves", "Branches"],
+    "susceptible_crops": ["Cherries"],
+    "severity_level": "Low (refers to maintenance and care for healthy growth)",
+    "environment_conditions": [
+      "Well-drained soil",
+      "Full sun exposure",
+      "Adequate and consistent moisture"
+    ],
+    "regional_prevalence": "Grown worldwide in suitable climates",
+    "remedies": [
+      "Regular mulching",
+      "Bird netting to protect fruit",
+      "Consistent watering practices"
+    ],
+    "preventive_measures": [
+      "Regular monitoring of tree health",
+      "Ensuring proper sunlight and soil conditions",
+      "Using organic mulch to conserve water and add nutrients"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/plant-diseases/brown-rot-stone-fruit",
+    "common_mistakes": [
+      "Neglecting to water during dry spells",
+      "Failing to protect fruit from birds with netting",
+      "Over-thinning the fruit unnecessarily"
+    ],
+    "treatment_duration": "Throughout the growing season as needed",
+    "treatment_cost": "Low, mainly involves water, mulch, and bird netting",
+    "disease_transmission_method": "Not applicable as this refers to healthy plant care",
+    "cultural_practices": [
+      "Mulching",
+      "Regular watering",
+      "Protection from pests such as birds"
+    ],
+    "impact_on_yield": "High, with proper care leading to abundant and high-quality fruit",
+    "treatment_effectiveness": "High, if recommended practices are followed consistently",
+    "signs_of_resistance": "Strong natural resistance when healthy and cared for",
+    "nutrient_deficiencies_linked": "None if soil is properly maintained",
+    "post_treatment_care": "Continue regular care such as watering and mulching",
+    "affected_region_seasons": "Thrives during warm seasons with adequate care",
+    "research_and_studies": [
+      "Studies on organic care practices for cherry trees"
+    ]
+  },
+  "8": {
+    "disease_name": "Corn : Cercospora Leaf Spot | Gray Leaf Spot",
+    "description": "Gray leaf spot on corn is caused by the fungus Cercospora zeae-maydis and has become one of the most economically damaging diseases in the United States, especially in regions like Indiana. Another form of the disease caused by Pyricularia grisea thrives in warm, rainy periods, slowing growth, thinning established stands, and potentially killing large areas of crops.",
+    "possible_steps": [
+      "Irrigate deeply but infrequently to maintain soil moisture without over-saturating.",
+      "Avoid using post-emergent weed killers while the disease is active.",
+      "Avoid applying medium to high levels of nitrogen fertilizers during an outbreak.",
+      "Improve air circulation and sunlight exposure to affected areas.",
+      "Mow at the proper height and only mow when the grass or crops are dry."
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gray_leaf_spot_Cercospora_zeae-maydis_5465607.png/330px-Gray_leaf_spot_Cercospora_zeae-maydis_5465607.png",
+    "symptoms": [
+      "Small, rectangular gray or tan lesions on leaves",
+      "Yellowing of surrounding tissue",
+      "Severe thinning or dieback in advanced stages",
+      "Reduced photosynthesis and crop yield"
+    ],
+    "best_time_for_treatment": "Early detection during the growing season",
+    "affected_parts": ["Leaves"],
+    "susceptible_crops": ["Corn"],
+    "severity_level": "High",
+    "environment_conditions": ["Warm, humid weather", "Frequent rainfall"],
+    "regional_prevalence": "Common in the United States, especially in Indiana and Florida",
+    "remedies": [
+      "Use fungicides as recommended for Cercospora control.",
+      "Rotate crops to minimize fungal buildup in soil.",
+      "Plant disease-resistant corn varieties."
+    ],
+    "preventive_measures": [
+      "Improve air circulation in the crop area.",
+      "Avoid over-irrigation and water only when necessary.",
+      "Practice crop rotation and use resistant varieties."
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/corn-pest-management/gray-leaf-spot-corn",
+    "common_mistakes": [
+      "Applying excessive nitrogen fertilizer during the disease's active phase.",
+      "Delaying treatment until lesions spread significantly.",
+      "Overwatering or irrigating at improper times."
+    ],
+    "treatment_duration": "Dependent on disease severity; treatment should begin early in the infection and continue as needed.",
+    "treatment_cost": "Moderate, depending on fungicide application and other practices.",
+    "disease_transmission_method": "Spread by fungal spores, often via wind and rain.",
+    "cultural_practices": [
+      "Crop rotation",
+      "Proper irrigation",
+      "Selective mowing during dry conditions"
+    ],
+    "impact_on_yield": "Significant, with severe cases reducing yield drastically.",
+    "treatment_effectiveness": "High, if fungicides and proper cultural practices are applied early.",
+    "signs_of_resistance": "Resistant varieties exhibit fewer lesions and maintain better yield under infection pressure.",
+    "nutrient_deficiencies_linked": "Excess nitrogen can exacerbate disease conditions.",
+    "post_treatment_care": "Continue monitoring for new symptoms and maintain healthy crop conditions.",
+    "affected_region_seasons": "Typically prevalent during warm and rainy growing seasons.",
+    "research_and_studies": [
+      "Studies on resistant corn hybrids for Cercospora control."
+    ]
+  },
+  "9": {
+    "disease_name": "Corn : Common Rust",
+    "description": "Common rust in corn is a fungal disease caused by Puccinia sorghi. Symptoms usually appear after tasseling and can be recognized by reddish-brown pustules scattered on both upper and lower leaf surfaces. These oval to elongated pustules are less than 1/4 inch long and may occur on any above-ground part of the plant, though they are most abundant on the leaves.",
+    "possible_steps": [
+      "Plant corn varieties with resistance to the rust fungus.",
+      "Use race-specific or partial rust-resistant hybrids.",
+      "Apply fungicide immediately if symptoms of infection appear.",
+      "Monitor fields regularly for early detection of rust pustules.",
+      "Maintain crop hygiene by removing infected debris."
+    ],
+    "image_url": "https://ohioline.osu.edu/sites/ohioline/files/imce/Plant_Pathology/PLNTPTH-CER-02_Figure_1.png",
+    "symptoms": [
+      "Reddish-brown pustules scattered on leaves",
+      "Pustules appearing on both upper and lower leaf surfaces",
+      "Oval to elongated pustules breaking through the leaf epidermis",
+      "Pustules on above-ground parts such as stalks and husks in severe cases"
+    ],
+    "best_time_for_treatment": "As soon as symptoms are noticed, typically after tasseling",
+    "affected_parts": ["Leaves", "Above-ground parts of the plant"],
+    "susceptible_crops": ["Corn"],
+    "severity_level": "Moderate to High",
+    "environment_conditions": ["Warm, humid weather", "Prolonged leaf wetness"],
+    "regional_prevalence": "Common in areas with humid climates and warm growing seasons",
+    "remedies": [
+      "Apply fungicides approved for rust control in corn.",
+      "Ensure optimal crop management practices to minimize stress."
+    ],
+    "preventive_measures": [
+      "Plant rust-resistant corn hybrids.",
+      "Rotate crops to break the life cycle of the rust pathogen.",
+      "Improve air circulation within the crop to reduce humidity."
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/corn-pest-management/common-rust-corn",
+    "common_mistakes": [
+      "Delaying fungicide application after symptoms appear.",
+      "Using non-resistant corn varieties in rust-prone regions.",
+      "Ignoring early signs of infection, leading to rapid disease spread."
+    ],
+    "treatment_duration": "Continuous monitoring and treatment throughout the growing season",
+    "treatment_cost": "Low to Moderate, depending on fungicide use and application frequency",
+    "disease_transmission_method": "Airborne spores, spread by wind",
+    "cultural_practices": [
+      "Crop rotation",
+      "Field sanitation to remove infected debris",
+      "Timely planting to avoid peak infection periods"
+    ],
+    "impact_on_yield": "Moderate to significant yield reduction if untreated",
+    "treatment_effectiveness": "High, when using resistant varieties and fungicides",
+    "signs_of_resistance": "Corn varieties with fewer pustules and minimal yield loss under infection pressure",
+    "nutrient_deficiencies_linked": "No direct linkage, but stressed plants are more susceptible.",
+    "post_treatment_care": "Continue monitoring for new pustule development and maintain field sanitation.",
+    "affected_region_seasons": "Prevalent during warm, humid growing seasons",
+    "research_and_studies": [
+      "Studies on race-specific resistance to Puccinia sorghi in corn."
+    ]
+  },
+  "10": {
+    "disease_name": "Corn : Northern Leaf Blight",
+    "description": "Northern Corn Leaf Blight (NCLB) is a fungal disease caused by Setosphaeria turcica. It is characterized by long (1 to 6 inches), elliptical lesions that start as gray-green and turn pale gray or tan. Lesions may appear on the outer husk of ears but do not infect the kernels. Severe infections can cause the entire leaf to die, obscuring individual lesions.",
+    "possible_steps": [
+      "Apply fungicides at the onset of disease symptoms for maximum effectiveness.",
+      "Use corn hybrids with resistance (Ht gene) to reduce lesion size and spore production.",
+      "Monitor fields regularly to detect early symptoms, especially on lower leaves.",
+      "Maintain good crop management practices to reduce disease pressure."
+    ],
+    "image_url": "https://crop-protection-network.s3.amazonaws.com/articles/NLB-Daren-Mueller-02.jpg",
+    "symptoms": [
+      "Long, elliptical lesions on leaves (1 to 6 inches)",
+      "Gray-green lesions turning pale gray or tan",
+      "Dark gray spores on the underside of leaves under moist conditions",
+      "Entire leaves dying in severe infections",
+      "Lesions on outer husk of ears (kernels not affected)"
+    ],
+    "best_time_for_treatment": "At the first appearance of symptoms, especially on lower leaves",
+    "affected_parts": ["Leaves", "Outer husk of ears (not kernels)"],
+    "susceptible_crops": ["Corn"],
+    "severity_level": "Moderate to High",
+    "environment_conditions": [
+      "Warm, moist conditions",
+      "Prolonged leaf wetness"
+    ],
+    "regional_prevalence": "Common in areas with humid growing seasons and moderate temperatures",
+    "remedies": [
+      "Apply fungicides like strobilurins or triazoles.",
+      "Adopt resistant hybrids with Ht genes."
+    ],
+    "preventive_measures": [
+      "Plant resistant corn hybrids.",
+      "Ensure proper crop rotation to minimize fungal spores in the soil.",
+      "Promote air circulation within the crop to reduce humidity."
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/corn-pest-management/northern-corn-leaf-blight",
+    "common_mistakes": [
+      "Delaying fungicide application after symptoms appear.",
+      "Using non-resistant hybrids in areas prone to NCLB outbreaks.",
+      "Ignoring early symptoms, leading to rapid spread."
+    ],
+    "treatment_duration": "Throughout the growing season with regular monitoring",
+    "treatment_cost": "Moderate, depending on fungicide type and application frequency",
+    "disease_transmission_method": "Airborne spores and infected plant debris",
+    "cultural_practices": [
+      "Rotate crops to reduce spore buildup.",
+      "Remove and destroy infected plant debris post-harvest.",
+      "Avoid overhead irrigation to minimize leaf wetness."
+    ],
+    "impact_on_yield": "Significant yield reduction if untreated",
+    "treatment_effectiveness": "High, when fungicides and resistant hybrids are used",
+    "signs_of_resistance": "Smaller, chlorotic lesions with limited spore production",
+
+    "nutrient_deficiencies_linked": "No direct linkage, but stressed plants are more susceptible.",
+    "post_treatment_care": "Continue monitoring and follow-up fungicide applications if needed.",
+    "affected_region_seasons": "Prevalent in warm, moist growing seasons",
+    "research_and_studies": [
+      "Studies on the effectiveness of Ht genes in reducing lesion size and disease impact."
+    ]
+  },
+  "11": {
+    "disease_name": "Corn : Healthy",
+    "description": "Corn plants thrive in daytime temperatures of 75 to 80°F and nighttime temperatures of 65 to 70°F. They require consistently moist soil, but overwatering should be avoided. Fertilizer is needed only every 6 months. While corn plants can survive in low light conditions, they perform best under bright, indirect light. A few yellow leaves are normal, but multiple yellow leaves may indicate overwatering or insufficient light. Corn is rich in fiber, B vitamins, and essential minerals like zinc, magnesium, copper, iron, and manganese, contributing to digestive health and overall well-being.",
+    "possible_steps": [
+      "Maintain daytime temperatures of 75 to 80°F and nighttime temperatures of 65 to 70°F",
+      "Keep the soil consistently moist but avoid soggy conditions",
+      "Apply fertilizer every 6 months to promote growth",
+      "Provide bright but indirect light for optimal plant health",
+      "Monitor for yellow leaves; adjust watering and light conditions if excessive yellowing occurs"
+    ],
+    "image_url": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnryfKH69pZ4Gfm7G9b_nnveJoBvhgT0wuqA&s",
+    "symptoms": [
+      "Healthy green leaves",
+      "Robust plant growth with strong stalks",
+      "Occasional yellow leaves as part of natural plant aging"
+    ],
+    "best_time_for_treatment": "Throughout the growing season with periodic care and monitoring",
+    "affected_parts": ["Leaves", "Roots"],
+    "susceptible_crops": ["Corn"],
+    "severity_level": "Low (refers to healthy maintenance, not a disease)",
+    "environment_conditions": [
+      "Warm temperatures",
+      "Consistently moist but well-drained soil",
+      "Bright but indirect light"
+    ],
+    "regional_prevalence": "Global, with regions of cultivation suited to warm climates",
+    "remedies": [
+      "Adjust watering to maintain soil moisture without overwatering",
+      "Provide adequate light",
+      "Fertilize semi-annually"
+    ],
+    "preventive_measures": [
+      "Avoid overwatering to prevent yellowing leaves",
+      "Ensure adequate lighting conditions"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/vegetables/growing-sweet-corn",
+    "common_mistakes": [
+      "Overwatering leading to soggy soil",
+      "Inadequate light causing poor growth",
+      "Over-fertilization leading to nutrient imbalances"
+    ],
+    "treatment_duration": "Ongoing care throughout the growing season",
+    "treatment_cost": "Low, involving basic care and occasional fertilizer application",
+    "disease_transmission_method": "Not applicable, as this refers to healthy plant care",
+    "cultural_practices": [
+      "Provide adequate spacing for airflow and light penetration",
+      "Monitor soil moisture levels"
+    ],
+    "impact_on_yield": "Positive, with proper care enhancing growth and productivity",
+    "treatment_effectiveness": "High, when the proper environmental and care conditions are met",
+    "signs_of_resistance": "Not applicable, as this refers to healthy growth maintenance",
+    "nutrient_deficiencies_linked": "Potential deficiencies in zinc, magnesium, or iron if not supplemented",
+    "post_treatment_care": "Continue monitoring soil moisture and light exposure",
+    "affected_region_seasons": "Warm growing seasons",
+    "research_and_studies": [
+      "Research on corn plant care and optimal growth conditions"
+    ]
+  },
+  "12": {
+    "disease_name": "Grape : Black Rot",
+    "description": "Grape black rot is a fungal disease caused by the ascomycetous fungus Guignardia bidwellii. It thrives in hot and humid weather, primarily affecting grape vines. The disease originated in eastern North America and has spread to Europe, South America, and Asia. It causes significant crop loss in warm, humid climates but is rare in regions with arid summers. Black rot affects all green parts of the vine, including shoots, leaves, stems, tendrils, and fruit, with the most severe damage occurring on the fruit. The disease gets its name from the black fringe bordering brown patches on the leaves.",
+    "possible_steps": [
+      "Use Mancozeb-based fungicides like BONIDE MANCOZEB FLOWABLE (37% Mancozeb) for effective control of black rot",
+      "Apply Nova (myclobutanil)-based fungicides such as IMMUNOX FUNGICIDE (1.55% myclobutanil) for treatment",
+      "Ensure good air circulation around grapevines by proper pruning and spacing",
+      "Remove and destroy infected plant material to prevent disease spread",
+      "Avoid overhead watering to minimize humidity around the vines",
+      "Apply fungicides early in the season as a preventive measure"
+    ],
+    "image_url": "https://www.missouribotanicalgarden.org/Portals/0/Gardening/Gardening%20Help/images/Pests/Black_Rot_of_Grapes152.jpg",
+    "symptoms": [
+      "Brown patches on leaves with black fringes",
+      "Black, shriveled fruit with mummification",
+      "Dark lesions on stems, tendrils, and shoots",
+      "Wilting of affected green parts"
+    ],
+    "best_time_for_treatment": "Early in the growing season, especially before warm, humid conditions prevail",
+    "affected_parts": ["Leaves", "Shoots", "Tendrils", "Stems", "Fruits"],
+    "susceptible_crops": ["Grapes"],
+    "severity_level": "High, causing significant crop loss in favorable conditions",
+    "environment_conditions": [
+      "Hot and humid weather",
+      "Poor air circulation around vines"
+    ],
+    "regional_prevalence": "Common in warm, humid climates, especially in North America, Europe, South America, and Asia",
+    "remedies": [
+      "Mancozeb-based fungicides",
+      "Nova (myclobutanil)-based fungicides",
+      "Pruning for better air circulation"
+    ],
+    "preventive_measures": [
+      "Apply fungicides early in the season",
+      "Prune vines for good air circulation",
+      "Avoid overhead watering",
+      "Remove and destroy infected plant material"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/fruit/growing-grapes-home-garden",
+    "common_mistakes": [
+      "Delaying fungicide application until symptoms are visible",
+      "Overhead watering, increasing humidity",
+      "Failing to remove infected plant material"
+    ],
+    "treatment_duration": "Throughout the growing season, with repeated fungicide applications as needed",
+    "treatment_cost": "Moderate, depending on the fungicides used and the frequency of application",
+    "disease_transmission_method": "Spread through fungal spores in warm, humid conditions",
+    "cultural_practices": [
+      "Prune vines regularly for airflow",
+      "Rotate crops to avoid fungal buildup in the soil"
+    ],
+    "impact_on_yield": "Severe, potentially causing complete crop loss in favorable conditions",
+    "treatment_effectiveness": "High, when fungicides and cultural practices are applied promptly",
+    "signs_of_resistance": "Not applicable, focuses on managing fungal growth",
+    "nutrient_deficiencies_linked": "None directly linked but overall plant health aids in resistance",
+    "post_treatment_care": "Monitor for new symptoms and reapply fungicides as necessary",
+    "affected_region_seasons": "Warm and humid growing seasons",
+    "research_and_studies": [
+      "Studies on Guignardia bidwellii and its spread in grape-growing regions"
+    ]
+  },
+  "13": {
+    "disease_name": "Grape : Esca | Black Measles",
+    "description": "Grapevine measles, also known as esca or black measles, is a grapevine disease characterized by black spots on the berries and a 'tiger stripe' pattern on the leaves. Infected berries shrivel and dry up, while severe infections cause shoot tip dieback, leaf discoloration, and defoliation. The disease is difficult to control, and management includes removing infected plant parts and sealing prune wounds to prevent fungal infection.",
+    "possible_steps": [
+      "Remove infected berries, leaves, and trunks",
+      "Destroy infected plant parts",
+      "Use wound sealants like 5% boric acid in acrylic paint or suitable fungicides"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAYDNSeuaqN9A2-gblEWR_Um4z3adUdab4A&s",
+    "symptoms": [
+      "Black spots on berries",
+      "Shriveled, dry berries",
+      "Tiger stripe pattern on leaves",
+      "Early spring shoot tip dieback"
+    ],
+    "best_time_for_treatment": "Before symptoms appear, during early spring",
+    "affected_parts": ["Berries", "Leaves", "Shoots"],
+    "susceptible_crops": ["Grape"],
+    "severity_level": "Severe if untreated",
+    "environment_conditions": ["Warm, humid conditions favor disease spread"],
+    "regional_prevalence": "Common in grape-growing regions worldwide",
+    "remedies": [
+      "Remove infected plant parts",
+      "Use wound sealants",
+      "Apply suitable fungicides"
+    ],
+    "preventive_measures": [
+      "Regular inspection for symptoms",
+      "Remove and destroy infected vines",
+      "Sanitize pruning tools"
+    ],
+    "link_to_detailed_guide": "https://en.wikipedia.org/wiki/Esca_(grape_disease)",
+    "common_mistakes": [
+      "Not removing infected plant parts",
+      "Overlooking early symptoms"
+    ],
+    "treatment_duration": "Ongoing maintenance and removal of infected parts",
+    "treatment_cost": "Varies depending on vineyard size and treatment type",
+    "disease_transmission_method": "Spread by infected plant material and pruning tools",
+    "cultural_practices": [
+      "Prune infected vines and destroy them",
+      "Use clean tools during pruning"
+    ],
+    "impact_on_yield": "Significant yield loss if untreated",
+    "treatment_effectiveness": "Limited effectiveness; prevention is key",
+    "signs_of_resistance": "No known resistance",
+    "nutrient_deficiencies_linked": "Not directly linked, but may be exacerbated by nutrient imbalances",
+    "post_treatment_care": "Regularly monitor for new infections",
+    "affected_region_seasons": "Spring to summer",
+    "research_and_studies": [
+      "https://www.researchgate.net/profile/Laura-Mugnai/publication/43161073"
+    ],
+    "soil_ph_range": "Not affected by soil pH",
+    "watering_advice": "Water at the base to avoid leaf wetting"
+  },
+  "14": {
+    "disease_name": "Grape : Leaf Blight | Isariopsis Leaf Spot",
+    "description": "Isariopsis leaf spot is caused by a fungus that attacks all green parts of the grapevine, including leaves, tendrils, and shoots. Symptoms include pale yellow-green lesions on leaves that turn brown, as well as curled petioles and shoots that eventually die. Young berries are particularly susceptible and can develop white fungal fruiting structures. Older berries may turn dull gray or pinkish red.",
+    "possible_steps": [
+      "Apply dormant fungicide sprays",
+      "Prune infected plant parts",
+      "Use protectant and systemic fungicides"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuKrFCx5XkmGPVYGwLhlu8uzeIQBQrwmaJ1g&s",
+    "symptoms": [
+      "Yellow-green lesions on leaves",
+      "Premature leaf drop",
+      "Curling and dieback of shoots and tendrils",
+      "White fungal fruiting structures on young berries"
+    ],
+    "best_time_for_treatment": "Before symptoms appear, during dormancy",
+    "affected_parts": ["Leaves", "Shoots", "Tendrils"],
+    "susceptible_crops": ["Grape"],
+    "severity_level": "Moderate if untreated",
+    "environment_conditions": ["Moist, humid conditions favor fungal growth"],
+    "regional_prevalence": "Common in grape-growing regions worldwide",
+    "remedies": [
+      "Apply dormant fungicides",
+      "Prune infected plant parts",
+      "Use systemic and protectant fungicides"
+    ],
+    "preventive_measures": [
+      "Regular fungicide applications",
+      "Prune and destroy infected plant material"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/plant-diseases/leaf-spot-diseases-trees-and-shrubs",
+    "common_mistakes": [
+      "Overlooking early symptoms",
+      "Failure to apply fungicides during dormancy"
+    ],
+    "treatment_duration": "Ongoing throughout the growing season",
+    "treatment_cost": "₹1000-₹3000 per acre for fungicide treatments",
+    "disease_transmission_method": "Spread by wind and rain, as well as contaminated pruning tools",
+    "cultural_practices": [
+      "Prune infected vines",
+      "Maintain good airflow in the vineyard"
+    ],
+    "impact_on_yield": "Moderate yield loss if untreated",
+    "treatment_effectiveness": "Effective when applied early in the season",
+    "signs_of_resistance": "Some fungicide resistance reported",
+    "nutrient_deficiencies_linked": "Not specifically linked to nutrient deficiencies",
+    "post_treatment_care": "Monitor for new infections after treatment",
+    "affected_region_seasons": "Spring to fall",
+    "research_and_studies": [
+      "https://www.goodfruit.com/black-rot-lesions-on-leaves"
+    ],
+    "soil_ph_range": "Not affected by soil pH",
+    "watering_advice": "Avoid wetting foliage"
+  },
+  "15": {
+    "disease_name": "Grape : Healthy",
+    "description": "To keep grapevines healthy, it's important to water them correctly and avoid wetting the foliage. Reduce watering in the fall to help young vines harden off for winter. Older vines rarely need additional watering unless the soil is very well-drained. Grapes are high in vitamins and antioxidants, providing health benefits such as supporting heart health, reducing blood sugar levels, and protecting against certain cancers.",
+    "possible_steps": [
+      "Water only the root zone",
+      "Avoid overhead watering",
+      "Reduce watering in the fall to help vines harden off for winter"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-CJqoDqSvxZNsBhIB0j9QlZBIS6t52hwWzQ&s",
+    "symptoms": [
+      "Healthy, strong vine growth",
+      "Rich fruit development",
+      "Vibrant leaf color"
+    ],
+    "best_time_for_treatment": "Throughout the growing season",
+    "affected_parts": ["Vines", "Fruit", "Leaves"],
+    "susceptible_crops": ["Grape"],
+    "severity_level": "None if properly maintained",
+    "environment_conditions": ["Moderate watering needs", "Well-drained soil"],
+    "regional_prevalence": "Common in healthy vineyards",
+    "remedies": ["Proper irrigation management", "Avoid wetting foliage"],
+    "preventive_measures": [
+      "Maintain proper watering schedule",
+      "Ensure well-drained soil for older vines"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/fruit/growing-grapes-home-garden",
+    "common_mistakes": ["Overwatering", "Wetting foliage"],
+    "treatment_duration": "Ongoing maintenance",
+    "treatment_cost": "Minimal, mainly involves proper watering practices",
+    "disease_transmission_method": "Not applicable (healthy practices)",
+    "cultural_practices": [
+      "Ensure proper root zone watering",
+      "Adjust watering based on weather conditions"
+    ],
+    "impact_on_yield": "No negative impact if maintained properly",
+    "treatment_effectiveness": "Effective when proper watering practices are followed",
+    "signs_of_resistance": "Not applicable (healthy plant care)",
+    "nutrient_deficiencies_linked": "Can be exacerbated by nutrient imbalances if not properly managed",
+    "post_treatment_care": "Regular monitoring of watering practices",
+    "affected_region_seasons": "All seasons, with adjustments in fall and winter",
+    "research_and_studies": [
+      "https://images.indianexpress.com/2021/02/grapes-1200.jpg"
+    ],
+    "soil_ph_range": "Preferably slightly acidic to neutral soil pH",
+    "watering_advice": "Water deeply at the base, avoiding overhead watering"
+  },
+  "16": {
+    "disease_name": "Orange : Haunglongbing | Citrus Greening",
+    "description": "Citrus greening disease (HLB) is caused by a vector-transmitted pathogen. Symptoms include yellowing of the veins, followed by mottling of the entire leaf, premature defoliation, dieback of twigs, and root decay. Infected trees exhibit stunted growth, off-season flowers, and irregular, bitter fruit with a thick, green peel. It can be mistaken for nutrient deficiencies, but HLB has asymmetrical yellowing. The disease ultimately leads to the death of the plant.",
+    "possible_steps": [
+      "Control ACP (Asian Citrus Psyllid)",
+      "Spray neem oil insecticide on both sides of the foliage",
+      "Repeat treatment every 10-14 days",
+      "Follow up with liquid copper fungicide to control mold"
+    ],
+    "image_url": "https://www.plantdiseases.org/sites/default/files/plant_disease/images/0279.jpg",
+    "symptoms": [
+      "Yellowing of leaf veins and adjacent tissue",
+      "Splotchy mottling of leaves",
+      "Premature leaf drop",
+      "Twigs dieback",
+      "Decline in fruit quality with bitter taste"
+    ],
+    "best_time_for_treatment": "When symptoms first appear, or as part of regular pest management",
+    "affected_parts": ["Leaves", "Twigs", "Fruit", "Roots"],
+    "susceptible_crops": ["Orange", "Citrus trees"],
+    "severity_level": "High",
+    "environment_conditions": [
+      "Warm climates, common in citrus-growing regions"
+    ],
+    "regional_prevalence": "Widespread in citrus-growing areas",
+    "remedies": ["Control pest vectors (ACP)", "Fungicide treatments"],
+    "preventive_measures": [
+      "Regular pest control",
+      "Monitor for symptoms and act early"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/houseplants/growing-citrus-indoors",
+    "common_mistakes": ["Delaying treatment", "Ignoring pest management"],
+    "treatment_duration": "Ongoing, with periodic treatments and monitoring",
+    "treatment_cost": "Moderate, involves insecticide and fungicide treatments",
+    "disease_transmission_method": "Vector-transmitted (Asian Citrus Psyllid)",
+    "cultural_practices": [
+      "Control ACP population",
+      "Maintain regular pest management"
+    ],
+    "impact_on_yield": "Significant decline in fruit yield and quality",
+    "treatment_effectiveness": "Effective with early intervention and consistent pest control",
+    "signs_of_resistance": "No known resistance to HLB",
+    "nutrient_deficiencies_linked": "Can be confused with nutrient deficiencies",
+    "post_treatment_care": "Continual pest monitoring and treatment adjustments as necessary",
+    "affected_region_seasons": "Year-round, especially in warm climates",
+    "research_and_studies": [
+      "https://www.universityofcalifornia.edu/sites/default/files/CitrusGreening.jpg"
+    ],
+    "soil_ph_range": "Slightly acidic to neutral soil pH",
+    "watering_advice": "Ensure proper irrigation to maintain tree health"
+  },
+  "17": {
+    "disease_name": "Peach : Bacterial Spot",
+    "description": "Bacterial spot is caused by Xanthomonas campestris pv. pruni and affects peaches, nectarines, apricots, and plums. Symptoms include fruit spots, leaf spots, and twig cankers. Infected fruit develops pitting, cracking, and gumming, making them more susceptible to fungal infections like brown rot. Severe leaf infections lead to defoliation, reduced fruit size, and sunburn. The fruit symptoms may resemble peach scab but differ in appearance and affect the fruit surface more severely.",
+    "possible_steps": [
+      "Apply bactericides like copper-based fungicides",
+      "Prune infected twigs and branches",
+      "Improve tree spacing for better air circulation",
+      "Remove fallen leaves and fruit debris"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO-m6OXH5CDNBYnL378GDznpCFYMXzGAs7rg&s",
+    "symptoms": [
+      "Fruit pitting and cracking",
+      "Gum secretion from infected fruit",
+      "Leaf spots",
+      "Premature defoliation"
+    ],
+    "best_time_for_treatment": "Before symptoms appear, during early spring, and during active growing season",
+    "affected_parts": ["Fruit", "Leaves", "Twigs"],
+    "susceptible_crops": ["Peach", "Nectarine", "Apricot", "Plum"],
+    "severity_level": "Moderate to high",
+    "environment_conditions": ["Warm, humid conditions favor bacterial growth"],
+    "regional_prevalence": "Common in peach-growing areas, especially in humid climates",
+    "remedies": [
+      "Bactericide treatments",
+      "Proper pruning and tree management"
+    ],
+    "preventive_measures": [
+      "Maintain good orchard sanitation",
+      "Prune trees regularly"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/plant-diseases/leaf-spot-diseases-trees-and-shrubs",
+    "common_mistakes": [
+      "Failure to prune infected branches",
+      "Not applying treatments early enough"
+    ],
+    "treatment_duration": "Ongoing treatment during active growing seasons",
+    "treatment_cost": "Moderate, requires repeated treatments and maintenance",
+    "disease_transmission_method": "Water-splash and windborne pathogens",
+    "cultural_practices": [
+      "Remove infected fruit and leaves",
+      "Improve air circulation through proper spacing"
+    ],
+    "impact_on_yield": "Reduced fruit size, early defoliation, and potential crop loss",
+    "treatment_effectiveness": "Effective with timely application of treatments",
+    "signs_of_resistance": "Some varieties show tolerance, but no complete resistance",
+    "nutrient_deficiencies_linked": "May exacerbate symptoms but does not cause the disease",
+    "post_treatment_care": "Monitor for recurring symptoms and reapply treatments as needed",
+    "affected_region_seasons": "Active in the growing season, especially in rainy periods",
+    "research_and_studies": [
+      "https://www.gardeningknowhow.com/wp-content/uploads/2016/07/bacterial-spot-peach.jpg"
+    ],
+    "soil_ph_range": "Slightly acidic soil pH for optimal tree health",
+    "watering_advice": "Avoid overhead watering to reduce infection risk"
+  },
+  "18": {
+    "disease_name": "Peach : Healthy",
+    "description": "Peach trees grow in USDA Zones 5 to 8 or 9, and they are available in both dwarf and standard sizes, making them an excellent choice for backyard orchards. Unlike most ornamentals, peach trees require regular pruning, fertilizing, and spraying to stay healthy and productive. Keep the area around the tree clear of competing grass and weeds, and mulch generously for better growth.",
+    "possible_steps": [
+      "Regular pruning, fertilizing, and spraying",
+      "Keep the soil free from grass and weeds",
+      "Apply mulch around the tree"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeF23pGmU41JlSVy6L8CoKfJAoDjbzKzDOJQ&s",
+    "symptoms": [
+      "Healthy growth",
+      "Good fruit production",
+      "Vibrant green leaves"
+    ],
+    "best_time_for_treatment": "Throughout the growing season",
+    "affected_parts": ["Leaves", "Fruit"],
+    "susceptible_crops": ["Peach trees"],
+    "severity_level": "Low",
+    "environment_conditions": ["Well-drained soil", "Regular sunlight"],
+    "regional_prevalence": "Common in USDA Zones 5 to 8/9",
+    "remedies": ["Regular maintenance", "Prune and fertilize as required"],
+    "preventive_measures": [
+      "Regular tree care and maintenance",
+      "Keep the ground clear of weeds"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/fruit/growing-stone-fruits-home-garden",
+    "common_mistakes": [
+      "Neglecting pruning and fertilization",
+      "Overwatering or underwatering"
+    ],
+    "treatment_duration": "Ongoing care throughout the year",
+    "treatment_cost": "Low",
+    "disease_transmission_method": "Not disease-related",
+    "cultural_practices": ["Maintain soil health and tree vitality"],
+    "impact_on_yield": "Increases fruit production and quality",
+    "treatment_effectiveness": "High with proper care",
+    "signs_of_resistance": "N/A",
+    "nutrient_deficiencies_linked": "N/A",
+    "post_treatment_care": "Continue regular maintenance",
+    "affected_region_seasons": "All year round",
+    "research_and_studies": ["Peach tree care and maintenance guides"],
+    "soil_ph_range": "Slightly acidic to neutral",
+    "watering_advice": "Water deeply but avoid waterlogging"
+  },
+  "19": {
+    "disease_name": "Pepper Bell : Bacterial Spot",
+    "description": "Bacterial spot is an important disease in peppers and occasionally affects tomatoes. Symptoms include small water-soaked spots on the upper surface of the leaves and pimples on the lower surface. Lesions expand during warm, humid weather, causing yellowing, browning, and eventual leaf drop. The disease can also affect fruit, causing small raised rough spots. Bacterial spot is spread by splashing rain and working with infected plants. Infected plants may experience significant defoliation during wet weather.",
+    "possible_steps": [
+      "Select resistant varieties",
+      "Soak seeds in a chlorine bleach solution before planting",
+      "Mulch plants with organic material like newspaper and straw",
+      "Avoid overhead watering",
+      "Remove and discard infected parts",
+      "Apply fixed copper fungicide every 10-14 days"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT30kt7zNFF6La6bET2Vf3k6ixZAxYm3DyR7Q&s",
+    "symptoms": [
+      "Water-soaked spots on upper leaf surface",
+      "Small pimples on the lower leaf surface",
+      "Yellowing and browning of leaves",
+      "Defoliation",
+      "Raised rough spots on fruit"
+    ],
+    "best_time_for_treatment": "Before planting and during growing season",
+    "affected_parts": ["Leaves", "Fruits", "Stems"],
+    "susceptible_crops": ["Pepper", "Tomato"],
+    "severity_level": "Moderate to high",
+    "environment_conditions": [
+      "Warm, humid conditions favor disease spread",
+      "Dry weather slows the spread"
+    ],
+    "regional_prevalence": "Common in Maryland and other humid climates",
+    "remedies": [
+      "Use resistant varieties",
+      "Fungicide treatments",
+      "Proper sanitation and pruning"
+    ],
+    "preventive_measures": [
+      "Use disease-free seeds and transplants",
+      "Practice crop rotation",
+      "Cover soil with black plastic mulch"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/disease-management/bacterial-spot-tomato-and-pepper",
+    "common_mistakes": [
+      "Overhead watering",
+      "Failure to remove infected plant parts"
+    ],
+    "treatment_duration": "Ongoing treatments during growing season",
+    "treatment_cost": "Moderate, includes fungicide and maintenance",
+    "disease_transmission_method": "Rain splash, infected seeds, and crop residue",
+    "cultural_practices": [
+      "Practice good crop rotation",
+      "Use mulching and proper irrigation"
+    ],
+    "impact_on_yield": "Reduced yield due to defoliation and fruit damage",
+    "treatment_effectiveness": "Effective with preventive measures and timely fungicide use",
+    "signs_of_resistance": "No complete resistance, but tolerant varieties available",
+    "nutrient_deficiencies_linked": "No direct link but may worsen with poor soil health",
+    "post_treatment_care": "Continue preventive treatments and maintain good hygiene",
+    "affected_region_seasons": "Primarily during warm, humid seasons",
+    "research_and_studies": [
+      "Bacterial Spot Management and Prevention Research"
+    ],
+    "soil_ph_range": "Slightly acidic to neutral soil",
+    "watering_advice": "Avoid wetting foliage; water at the base of the plants"
+  },
+  "20": {
+    "disease_name": "Pepper Bell : Healthy",
+    "description": "To maintain healthy bell peppers, ensure the plants are well-watered but avoid soggy soil. Water the plants deeply, about 6 inches, and allow the soil to dry slightly between waterings. Consistent moisture is crucial, particularly during fruit set when tiny peppers replace blossoms, and during the fruit maturation stage. Maintaining proper moisture helps keep the peppers firm and healthy.",
+    "possible_steps": [
+      "Water deeply, about 6 inches, and allow slight drying between waterings",
+      "Ensure consistent moisture during fruit set and maturation",
+      "Avoid soggy soil to prevent root rot"
+    ],
+    "image_url": "https://www.google.com/imgres?q=Pepper%20Bell%20%3A%20Healthy%20leaf&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-photo%2Fsweet-pepper-leaf-closeup-isolated-260nw-296306756.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fsweet-pepper-leaves&docid=tXBTDIYWtAXVbM&tbnid=swHAODEqL3BsYM&vet=12ahUKEwjcwtXxkfKJAxWZglYBHWG_IR4QM3oECGYQAA..i&w=390&h=280&hcb=2&ved=2ahUKEwjcwtXxkfKJAxWZglYBHWG_IR4QM3oECGYQAA",
+    "symptoms": [
+      "Firm and healthy fruit",
+      "Vibrant leaves",
+      "Proper fruit maturation"
+    ],
+    "best_time_for_treatment": "Throughout the growing season",
+    "affected_parts": ["Leaves", "Fruit"],
+    "susceptible_crops": ["Bell peppers"],
+    "severity_level": "Low",
+    "environment_conditions": [
+      "Well-drained soil",
+      "Consistent moisture, especially during fruiting"
+    ],
+    "regional_prevalence": "Common in regions suitable for bell pepper cultivation",
+    "remedies": ["Regular watering and moisture management"],
+    "preventive_measures": [
+      "Maintain consistent watering and avoid waterlogging",
+      "Ensure proper drainage"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/vegetables/growing-peppers",
+    "common_mistakes": [
+      "Overwatering or underwatering",
+      "Ignoring soil drainage"
+    ],
+    "treatment_duration": "Ongoing care during the growing season",
+    "treatment_cost": "Low, mainly related to water management",
+    "disease_transmission_method": "Not disease-related",
+    "cultural_practices": ["Regular care, pruning, and pest control"],
+    "impact_on_yield": "Promotes healthy and consistent fruit production",
+    "treatment_effectiveness": "High with proper care",
+    "signs_of_resistance": "N/A",
+    "nutrient_deficiencies_linked": "No significant deficiencies, but proper nutrition helps growth",
+    "post_treatment_care": "Maintain regular watering schedule",
+    "affected_region_seasons": "All year round in suitable climates",
+    "research_and_studies": ["Bell pepper cultivation and care studies"],
+    "soil_ph_range": "Slightly acidic to neutral soil",
+    "watering_advice": "Water deeply, ensuring soil moisture, but avoid overwatering"
+  },
+  "21": {
+    "disease_name": "Potato : Early Blight",
+    "description": "Early blight is a common disease in potato crops, occurring annually in many production areas. The severity of early blight depends on the frequency of foliar wetness (from rain, dew, or irrigation), the nutritional status of the foliage, and the susceptibility of the cultivar. Symptoms include small, dark-brown to black spots on older (lower) leaves, which enlarge and become angular. The lesions may be confused with brown spot lesions, but they become more distinct after a few days of sporulation on the surface of the lesions.",
+    "possible_steps": [
+      "Plant resistant potato varieties, especially late-maturing ones",
+      "Avoid overhead irrigation",
+      "Ensure sufficient aeration between plants for quicker foliage drying"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg-mJhx8Mt4aux83N0m9n4ebBv3rsQIHd4xA&s",
+    "symptoms": [
+      "Small, dark-brown to black spots on older leaves",
+      "Enlarged angular-shaped lesions",
+      "Sporulation on lesion surfaces"
+    ],
+    "best_time_for_treatment": "Preventive treatment during the growing season",
+    "affected_parts": ["Leaves"],
+    "susceptible_crops": ["Potatoes"],
+    "severity_level": "Moderate to high depending on conditions",
+    "environment_conditions": ["High humidity and frequent wetness"],
+    "regional_prevalence": "Common in regions with frequent rainfall",
+    "remedies": ["Plant resistant varieties", "Proper irrigation practices"],
+    "preventive_measures": [
+      "Choose resistant cultivars",
+      "Avoid overhead irrigation",
+      "Improve plant spacing for aeration"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/disease-management/early-blight-tomato-and-potato",
+    "common_mistakes": [
+      "Ignoring aeration and irrigation practices",
+      "Planting susceptible varieties in wet regions"
+    ],
+    "treatment_duration": "Throughout the growing season",
+    "treatment_cost": "Moderate, based on fungicide use",
+    "disease_transmission_method": "Water splashing and wind-borne spores",
+    "cultural_practices": [
+      "Maintain proper spacing between plants",
+      "Rotate crops"
+    ],
+    "impact_on_yield": "Potential yield loss if not controlled",
+    "treatment_effectiveness": "High with timely preventive measures",
+    "signs_of_resistance": "Varieties resistant to early blight",
+    "nutrient_deficiencies_linked": "Nutrient deficiencies may exacerbate symptoms",
+    "post_treatment_care": "Monitor for new lesions and treat accordingly",
+    "affected_region_seasons": "All growing seasons in wet regions",
+    "research_and_studies": ["Studies on early blight resistance in potatoes"],
+    "soil_ph_range": "Slightly acidic to neutral soil"
+  },
+  "22": {
+    "disease_name": "Potato : Late Blight",
+    "description": "Late blight is a destructive disease of potatoes caused by the pathogen Phytophthora infestans. It primarily affects potatoes but can also infect other solanaceous plants. Symptoms include small, water-soaked spots that initially appear on the lower leaves and may expand into large, dark brown or black lesions with a greasy appearance. The lesions are often surrounded by a yellow halo and spread quickly in cool, moist conditions.",
+    "possible_steps": [
+      "Apply prophylactic fungicide sprays like mancozeb at the onset of disease",
+      "Use a combination of systemic fungicides like cymoxanil+mancozeb or dimethomorph+mancozeb",
+      "Ensure proper field drainage and spacing for airflow"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeA8HKrTTQk57IPYpX20sbkoia-Jy0Pte63Q&s",
+    "symptoms": [
+      "Small, water-soaked spots on lower leaves",
+      "Rapid expansion into dark brown or black lesions",
+      "Yellow chlorotic halo around lesions"
+    ],
+    "best_time_for_treatment": "At the onset of disease, or preventively during high-risk periods",
+    "affected_parts": ["Leaves", "Stems"],
+    "susceptible_crops": ["Potatoes", "Tomatoes", "Other solanaceous plants"],
+    "severity_level": "High, can lead to crop destruction",
+    "environment_conditions": ["Cool, moist weather"],
+    "regional_prevalence": "Common in humid and cool regions",
+    "remedies": [
+      "Prophylactic fungicide applications",
+      "Crop rotation and field management"
+    ],
+    "preventive_measures": [
+      "Use resistant varieties",
+      "Maintain field hygiene and spacing"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/disease-management/late-blight",
+    "common_mistakes": [
+      "Inadequate fungicide application timing",
+      "Poor field drainage leading to humidity buildup"
+    ],
+    "treatment_duration": "Throughout the growing season in high-risk conditions",
+    "treatment_cost": "Moderate to high, depending on fungicide choice",
+    "disease_transmission_method": "Water splash, wind-borne spores, infected seed potatoes",
+    "cultural_practices": [
+      "Rotate crops to reduce inoculum buildup",
+      "Ensure adequate spacing and proper irrigation"
+    ],
+    "impact_on_yield": "Severe yield loss without timely control",
+    "treatment_effectiveness": "High with proactive and integrated management",
+    "signs_of_resistance": "Resistant varieties and fungicide programs",
+    "nutrient_deficiencies_linked": "Poorly nourished plants are more susceptible",
+    "post_treatment_care": "Monitor crops and reapply fungicides as needed",
+    "affected_region_seasons": "Spring and early summer in cooler, moist climates",
+    "research_and_studies": [
+      "Studies on late blight resistance and fungicide efficacy"
+    ],
+    "soil_ph_range": "Slightly acidic to neutral soil"
+  },
+  "23": {
+    "disease_name": "Potato : Healthy",
+    "description": "Potatoes require consistent moisture levels to develop. It's important to water regularly when tubers are establishing. Watering should reach about 8-10 inches into the soil. During hot or warm seasons, potatoes need large amounts of water twice a day to prevent the soil from drying out.",
+    "possible_steps": [
+      "Water potatoes consistently, ensuring moisture reaches the soil deeply",
+      "Increase watering during hot seasons with two daily waterings"
+    ],
+    "image_url": "https://www.growerexperts.com/wp-content/uploads/2022/08/a-large-leaf-on-a-potato-plant-showing-hairs.jpg",
+    "symptoms": ["Healthy growth and consistent moisture levels"],
+    "best_time_for_treatment": "Throughout the growing season, with extra care during hot weather",
+    "affected_parts": ["Leaves", "Tuber formation"],
+    "susceptible_crops": ["Potatoes"],
+    "severity_level": "Low (as this refers to healthy growth, not a disease)",
+    "environment_conditions": ["Consistent moisture and care"],
+    "regional_prevalence": "Common in regions with varying climates",
+    "remedies": [
+      "Maintain regular watering schedules",
+      "Ensure soil moisture consistency"
+    ],
+    "preventive_measures": ["Proper irrigation", "Mulch to maintain moisture"],
+    "link_to_detailed_guide": "https://extension.umn.edu/vegetables/growing-potatoes",
+    "common_mistakes": ["Inconsistent watering", "Not watering deeply enough"],
+    "treatment_duration": "Throughout the growing season",
+    "treatment_cost": "Low, mainly involves irrigation management",
+    "disease_transmission_method": "No disease transmission, just healthy maintenance",
+    "cultural_practices": [
+      "Use proper watering techniques",
+      "Ensure soil moisture retention"
+    ],
+    "impact_on_yield": "Positive, as healthy plants produce well",
+    "treatment_effectiveness": "High, with proper care",
+    "signs_of_resistance": "Not applicable (healthy growth)",
+    "nutrient_deficiencies_linked": "Healthy potatoes require balanced nutrients",
+    "post_treatment_care": "Continue with regular watering and maintenance",
+    "affected_region_seasons": "All seasons, depending on local climate",
+    "research_and_studies": ["Research on optimal potato growth conditions"],
+    "soil_ph_range": "Neutral to slightly acidic soil"
+  },
+  "24": {
+    "disease_name": "Raspberry : Healthy",
+    "description": "Raspberries require consistent watering, approximately one inch per week from spring until after harvest. It's better to water regularly than to soak deeply infrequently. To maintain healthy raspberry bushes, remove any canes or 'suckers' that grow away from the main rows, as they can draw away nutrients and reduce next year's berry yield.",
+    "possible_steps": [
+      "Water raspberries one inch per week",
+      "Regularly remove suckers and canes that grow away from the rows"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2fg0RUg-qJd2klfAf1OeXOGL8jEQrJllBYg&s",
+    "symptoms": ["Healthy raspberry growth with good berry production"],
+    "best_time_for_treatment": "During the growing season, with consistent watering",
+    "affected_parts": ["Bushes", "Roots"],
+    "susceptible_crops": ["Raspberries"],
+    "severity_level": "Low (this refers to healthy growth)",
+    "environment_conditions": ["Consistent watering and maintenance"],
+    "regional_prevalence": "Common in temperate regions",
+    "remedies": ["Regular watering", "Proper care by removing suckers"],
+    "preventive_measures": [
+      "Consistent watering schedule",
+      "Maintain plant health by removing excess canes"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/fruit/growing-raspberries-home-garden",
+    "common_mistakes": ["Infrequent watering", "Not removing suckers"],
+    "treatment_duration": "Throughout the growing season",
+    "treatment_cost": "Low, involves regular care and watering",
+    "disease_transmission_method": "Not applicable as it focuses on healthy plant care",
+    "cultural_practices": [
+      "Prune excess canes",
+      "Ensure soil moisture consistency"
+    ],
+    "impact_on_yield": "Positive, increased berry yield with proper care",
+    "treatment_effectiveness": "High with regular care",
+    "signs_of_resistance": "Not applicable for this healthy growth category",
+
+    "nutrient_deficiencies_linked": "Maintaining soil fertility is key",
+    "post_treatment_care": "Continue regular maintenance for healthy plant growth",
+    "affected_region_seasons": "All growing seasons in temperate climates",
+    "research_and_studies": ["Studies on optimal raspberry care and yield"],
+    "soil_ph_range": "Slightly acidic to neutral soil"
+  },
+  "25": {
+    "disease_name": "Soybean : Healthy",
+    "description": "Soybeans require consistent moisture until they push through the soil. Regular watering is important during flowering and pod formation. It's best to avoid overhead watering as it can cause flowers and pods to fall off. Mulching is also recommended when soil temperatures rise above 60°F (16°C) to conserve moisture.",
+    "possible_steps": [
+      "Water soybeans regularly during flowering and pod formation",
+      "Avoid overhead watering",
+      "Mulch to retain soil moisture when the temperature exceeds 60°F"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLMi1Xux5DXUPfxY7uuKpVLVFCR8gtHQ9jQ&s",
+    "symptoms": ["Healthy soybean growth with proper moisture management"],
+    "best_time_for_treatment": "During flowering and pod formation",
+    "affected_parts": ["Leaves", "Pods"],
+    "susceptible_crops": ["Soybeans"],
+    "severity_level": "Low (this refers to healthy soybean growth)",
+    "environment_conditions": ["Regular watering and proper mulching"],
+    "regional_prevalence": "Common in regions with moderate to warm climates",
+    "remedies": ["Proper watering techniques", "Mulching to retain moisture"],
+    "preventive_measures": [
+      "Avoid overhead watering",
+      "Ensure regular and deep watering"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/soybean-pest-management/brown-stem-rot-bsr-soybean",
+    "common_mistakes": [
+      "Inconsistent watering",
+      "Overhead watering during pod formation"
+    ],
+    "treatment_duration": "Throughout the growing season",
+    "treatment_cost": "Low, requires consistent care",
+    "disease_transmission_method": "Not applicable, focuses on healthy maintenance",
+    "cultural_practices": ["Proper mulching and moisture management"],
+    "impact_on_yield": "Positive, with healthy plants producing more pods",
+    "treatment_effectiveness": "High with proper care",
+    "signs_of_resistance": "Not applicable to healthy growth",
+
+    "nutrient_deficiencies_linked": "Balanced nutrients are important for healthy soybeans",
+    "post_treatment_care": "Monitor soil moisture and apply treatments if necessary",
+    "affected_region_seasons": "All growing seasons in temperate to warm regions",
+    "research_and_studies": ["Studies on optimal soybean care and yield"]
+  },
+  "26": {
+    "disease_name": "Squash : Powdery Mildew",
+    "description": "White powdery spots can form on both upper and lower leaf surfaces, which quickly expand into large blotches. Powdery mildew weakens the plant, causing the fruit to ripen prematurely. Fewer and smaller fruits grow on infected plants. In warm, dry conditions, new spores form and easily spread the disease. Symptoms of powdery mildew first appear mid to late summer.",
+    "possible_steps": [
+      "Provide good air movement around plants through proper spacing",
+      "Stake plants and control weeds",
+      "Spray with a mixture of baking soda, non-detergent soap, and water to control powdery mildew",
+      "Consider using fungicides if the disease is severe"
+    ],
+    "image_url": "https://i0.wp.com/savvygardening.com/wp-content/uploads/2021/09/how_to_get_rid_of_powdery_mildew_on_squash.jpg?resize=600%2C450&ssl=1",
+    "symptoms": [
+      "White powdery spots on both leaf surfaces",
+      "Large blotches expanding from initial spots",
+      "Premature fruit ripening"
+    ],
+    "best_time_for_treatment": "Mid to late summer, when symptoms first appear",
+    "affected_parts": ["Leaves", "Fruit"],
+    "susceptible_crops": ["Squash"],
+    "severity_level": "Moderate to High (can severely affect plant health and fruit yield)",
+    "environment_conditions": [
+      "Warm and dry conditions promote powdery mildew growth"
+    ],
+    "regional_prevalence": "Common in areas with warm, dry summers",
+    "remedies": [
+      "Fungicide application",
+      "Homemade spray (baking soda + non-detergent soap + water)",
+      "Good air circulation"
+    ],
+    "preventive_measures": [
+      "Ensure proper plant spacing",
+      "Maintain air circulation around plants",
+      "Remove infected plant debris"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/disease-management/downy-mildew-cucurbits",
+    "common_mistakes": [
+      "Overcrowding plants",
+      "Failure to remove infected plant material",
+      "Neglecting early treatment"
+    ],
+    "treatment_duration": "Throughout the growing season, as needed",
+    "treatment_cost": "Low to moderate, depending on the method used",
+    "disease_transmission_method": "Spores spread easily in warm, dry conditions",
+    "cultural_practices": [
+      "Proper plant spacing and air circulation",
+      "Regular monitoring for early signs of disease"
+    ],
+    "impact_on_yield": "Negative, reduced fruit size and quantity",
+    "treatment_effectiveness": "High if treated early and consistently",
+    "signs_of_resistance": "Some resistant squash varieties may show reduced symptoms",
+    "nutrient_deficiencies_linked": "Not directly linked to nutrient deficiencies but healthy plants are more resilient",
+    "post_treatment_care": "Regular monitoring and removal of infected leaves to prevent spread",
+    "affected_region_seasons": "Mid to late summer in warm climates",
+    "research_and_studies": [
+      "Studies on powdery mildew management in squash crops"
+    ]
+  },
+  "27": {
+    "disease_name": "Strawberry : Leaf Scorch",
+    "description": "Leaf scorch symptoms are similar to the early stages of common leaf spot, with dark purple spots scattered on the upper leaf surface. These spots enlarge and resemble drops of tar due to the accumulation of black fruiting bodies. Infected leaves eventually turn brown, dry up, and curl at the margins, giving them a scorched appearance. The disease weakens plants and can reduce flower and fruit production.",
+    "possible_steps": [
+      "Remove infected garden debris",
+      "Establish new strawberry transplants regularly",
+      "Ensure proper garden sanitation",
+      "Prune and discard infected leaves and runners"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvBzHkMX8Jf3rST2QV8tUBBlDs-MUgsM7Fw&s",
+    "symptoms": [
+      "Dark purple spots on the upper leaf surface",
+      "Spots resembling tar drops",
+      "Leaves turning brown, curling at the margins"
+    ],
+    "best_time_for_treatment": "Prevention should begin before symptoms appear, during early spring",
+    "affected_parts": ["Leaves", "Petiole", "Fruit Stalks", "Runners"],
+    "susceptible_crops": ["Strawberries"],
+    "severity_level": "High (can significantly weaken plants and reduce fruit yield)",
+    "environment_conditions": [
+      "Wet, humid conditions are favorable for the spread of the fungus"
+    ],
+    "regional_prevalence": "Common in areas with mild to wet climates",
+    "remedies": [
+      "Proper garden sanitation",
+      "Pruning infected leaves and runners",
+      "Establishing new strawberry transplants regularly"
+    ],
+    "preventive_measures": [
+      "Maintain proper spacing between plants",
+      "Remove infected debris",
+      "Regularly introduce new transplants"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/strawberry-farming/strawberry-diseases-minnesota",
+    "common_mistakes": [
+      "Ignoring garden sanitation",
+      "Not removing infected leaves early enough",
+      "Planting in poorly-drained soils"
+    ],
+    "treatment_duration": "Throughout the growing season, with particular attention in early spring",
+    "treatment_cost": "Moderate, depending on the extent of infection and treatment method",
+    "disease_transmission_method": "Fungal spores spread through fallen leaves and infected plant material",
+    "cultural_practices": [
+      "Maintaining proper spacing",
+      "Ensuring good air circulation around plants",
+      "Sanitizing garden tools and removing infected debris"
+    ],
+    "impact_on_yield": "Negative, as it reduces fruit yield and weakens the plants",
+    "treatment_effectiveness": "High when proper prevention and early intervention measures are followed",
+    "signs_of_resistance": "Some strawberry varieties may show resistance to leaf scorch",
+    "nutrient_deficiencies_linked": "Not directly related to nutrient deficiencies but balanced nutrition supports plant health",
+    "post_treatment_care": "Monitor plants regularly for new infections and remove infected material promptly",
+    "affected_region_seasons": "Spring and early summer, especially in humid or wet conditions",
+    "research_and_studies": [
+      "Studies on fungal pathogens and leaf scorch in strawberries",
+      "Best practices for controlling strawberry leaf diseases"
+    ]
+  },
+  "28": {
+    "disease_name": "Strawberry : Healthy",
+    "description": "Strawberries thrive in a sunny spot and need lots of light, particularly morning sun. They require daily watering, especially during fruit production. It's essential to avoid wetting the leaves to prevent disease. Protect the plants from extreme weather conditions and wind. Even though they like sunlight, exposure to direct midday sun can be harmful. Check pots for good drainage, control weeds, and keep plants free from unwanted growth. Fertilize with a balanced fertilizer to support their energy needs, but avoid over-fertilization, as it can reduce fruit yield and increase runner production. Strawberries are heart-healthy, packed with vitamins, fiber, antioxidants, and polyphenols that protect against various diseases.",
+    "possible_steps": [
+      "Provide ample morning sunlight",
+      "Water daily, especially during fruit production",
+      "Avoid wetting leaves to prevent disease",
+      "Protect from extreme weather and wind",
+      "Ensure good drainage in pots",
+      "Fertilize with a balanced fertilizer"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ-0rhgNIOLanZasBwpEBbwLtg1mIJv-Qd7w&s",
+    "symptoms": ["Healthy growth with proper sunlight, water, and care"],
+    "best_time_for_treatment": "Throughout the growing season",
+    "affected_parts": ["Leaves", "Fruit"],
+    "susceptible_crops": ["Strawberries"],
+    "severity_level": "Low (healthy plant growth)",
+    "environment_conditions": ["Ample sunlight and regular watering"],
+    "regional_prevalence": "Common in regions with adequate sunlight and mild temperatures",
+    "remedies": [
+      "Provide adequate sunlight and daily watering",
+      "Use a balanced fertilizer as per directions"
+    ],
+    "preventive_measures": [
+      "Ensure proper drainage",
+      "Avoid over-fertilization",
+      "Protect plants from extreme weather"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/fruit/growing-strawberries-home-garden",
+    "common_mistakes": [
+      "Over-fertilizing plants",
+      "Exposing plants to direct midday sun",
+      "Inadequate watering during fruit production"
+    ],
+    "treatment_duration": "Throughout the growing season",
+    "treatment_cost": "Low, based on proper care and attention",
+    "disease_transmission_method": "Not applicable as this is for healthy maintenance",
+    "cultural_practices": [
+      "Proper sunlight exposure",
+      "Routine watering and fertilization"
+    ],
+    "impact_on_yield": "Positive, as healthy plants produce more fruit",
+    "treatment_effectiveness": "High with proper care and attention",
+    "signs_of_resistance": "Not applicable to healthy growth",
+    "nutrient_deficiencies_linked": "Strawberries need balanced nutrients for optimal growth",
+    "post_treatment_care": "Regular monitoring of water levels and protection from weather",
+    "affected_region_seasons": "Year-round in suitable climates",
+    "research_and_studies": [
+      "Studies on strawberry nutrition and health",
+      "Best practices for maximizing strawberry yield"
+    ]
+  },
+  "29": {
+    "disease_name": "Tomato : Bacterial Spot",
+    "description": "Bacterial spot of tomato is a potentially devastating disease that can affect all above-ground parts of the plant, including leaves, stems, and fruit. It thrives in warm, wet climates, and is often found in greenhouses or regions with similar conditions. The disease first appears on leaves as small, water-soaked circular spots that darken to brownish-red. On fruit, spots are small, raised, and blister-like with a yellowish halo, later turning scabby and rough. The disease can lead to leaf yellowing and loss, reducing plant vigor and fruit quality. Prevention includes using pathogen-free seeds, avoiding overhead watering, and sterilizing tools. Copper-based treatments may be used during wet conditions but should be applied cautiously to avoid resistance.",
+    "possible_steps": [
+      "Use pathogen-free seeds or soak seeds at 122°F for 25 minutes to kill pathogens",
+      "Avoid overhead watering and use drip-tape or soaker hoses",
+      "Sterilize gardening tools regularly with 70% alcohol or a 10% bleach solution",
+      "Apply copper-based products during warm, wet conditions",
+      "Monitor plants for symptoms and remove infected parts"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXYipgm8-2VuQawtMs9tdke3e2kBXXCyXdXQ&s",
+    "symptoms": [
+      "Small, water-soaked circular spots on leaves",
+      "Brownish-red spots on older leaves",
+      "Raised, blister-like spots on fruit with a yellowish halo"
+    ],
+    "best_time_for_treatment": "During warm, wet periods when the disease is most active",
+    "affected_parts": ["Leaves", "Stems", "Fruit"],
+    "susceptible_crops": ["Tomatoes"],
+    "severity_level": "High (can lead to unmarketable fruit and plant death)",
+    "environment_conditions": ["Warm, wet climates or greenhouses"],
+    "regional_prevalence": "Common in humid regions with frequent rainfall",
+    "remedies": [
+      "Use pathogen-free seeds and sterilize tools",
+      "Use copper-based products as a preventative measure",
+      "Avoid overhead watering"
+    ],
+    "preventive_measures": [
+      "Ensure proper sanitation and sterilization",
+      "Avoid planting during wet seasons",
+      "Space plants to reduce moisture accumulation"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/disease-management/bacterial-spot-tomato-and-pepper",
+    "common_mistakes": [
+      "Using contaminated seed or transplants",
+      "Not sterilizing tools",
+      "Watering overhead rather than using drip irrigation"
+    ],
+    "treatment_duration": "Throughout the growing season, particularly during wet periods",
+    "treatment_cost": "Moderate, depending on the extent of the infection and treatment method",
+    "disease_transmission_method": "Through contaminated seed, tools, or infected plant material",
+    "cultural_practices": [
+      "Maintain good sanitation and sterilization practices",
+      "Use drip irrigation to prevent moisture on the leaves"
+    ],
+    "impact_on_yield": "Negative, as the disease can reduce fruit quality and yield",
+    "treatment_effectiveness": "High if copper treatments are applied correctly and preventative steps are taken",
+    "signs_of_resistance": "Excessive use of copper can lead to reduced effectiveness over time",
+    "nutrient_deficiencies_linked": "Proper nutrition helps plants resist diseases like bacterial spot",
+    "post_treatment_care": "Monitor plants for any signs of new infections and continue preventative measures",
+    "affected_region_seasons": "Spring through fall, especially in regions with high humidity",
+    "research_and_studies": [
+      "Studies on bacterial spot control and copper fungicide resistance",
+      "Best practices for managing bacterial diseases in tomatoes"
+    ]
+  },
+  "30": {
+    "disease_name": "Tomato : Early Blight",
+    "description": "Early blight is one of the most common tomato diseases, occurring nearly every season wherever tomatoes are grown. It affects leaves, fruits, and stems and can be severely yield limiting when susceptible cultivars are used and weather is favorable. Severe defoliation can occur and result in sunscald on the fruit. Early blight is common in both field and high tunnel tomato production in Minnesota.",
+    "possible_steps": [
+      "Prune or stake plants to improve air circulation and reduce fungal problems",
+      "Disinfect pruning shears with a bleach solution (1 part bleach to 4 parts water) after each cut",
+      "Keep the soil under plants clean and free of garden debris",
+      "Add a layer of organic compost to prevent spores from splashing onto vegetation",
+      "Use drip irrigation or soaker hoses to keep foliage dry",
+      "Apply copper-based fungicides early, two weeks before the disease typically appears or when wet weather is predicted"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbZcsMFpit55FZMQjB1YkhjsHBChJ-q6tKaA&s",
+    "symptoms": [
+      "Dark, concentric spots on older leaves",
+      "Yellowing around the spots",
+      "Defoliation leading to sunscald on the fruit"
+    ],
+    "best_time_for_treatment": "Before disease symptoms appear, or when wet weather is predicted",
+    "affected_parts": ["Leaves", "Fruits", "Stems"],
+    "susceptible_crops": ["Tomatoes"],
+    "severity_level": "Moderate to High (can cause severe defoliation and reduced yield)",
+    "environment_conditions": ["Warm, wet climates"],
+    "regional_prevalence": "Common in tomato-growing regions with humid and wet conditions",
+    "remedies": [
+      "Prune plants to improve airflow",
+      "Use copper-based fungicides",
+      "Keep the area clean and free of plant debris"
+    ],
+    "preventive_measures": [
+      "Ensure proper plant spacing and airflow",
+      "Apply fungicides as a preventative measure",
+      "Use drip irrigation to avoid moisture on leaves"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/disease-management/early-blight-tomato-and-potato",
+    "common_mistakes": [
+      "Not pruning plants to improve airflow",
+      "Failure to apply preventative fungicides",
+      "Watering overhead instead of using drip irrigation"
+    ],
+    "treatment_duration": "Throughout the growing season, particularly during wet conditions",
+    "treatment_cost": "Moderate, depending on the application frequency and product used",
+    "disease_transmission_method": "Through infected plant debris, soil, or water splashing onto plants",
+    "cultural_practices": [
+      "Use crop rotation to reduce soilborne pathogens",
+      "Remove and destroy infected plant material"
+    ],
+    "impact_on_yield": "Moderate to high, as the disease can reduce the plant's ability to photosynthesize and affect fruit quality",
+    "treatment_effectiveness": "High if applied early and consistently",
+    "signs_of_resistance": "Some strains may show reduced susceptibility to fungicides over time",
+    "nutrient_deficiencies_linked": "Proper nutrition can help strengthen plants and reduce susceptibility to diseases like early blight",
+    "post_treatment_care": "Monitor plants for any signs of new infection and continue applying preventative fungicides if necessary",
+    "affected_region_seasons": "Spring through fall, particularly in humid climates",
+    "research_and_studies": [
+      "Studies on early blight resistance in tomatoes",
+      "Effectiveness of various fungicides in controlling early blight"
+    ]
+  },
+  "31": {
+    "disease_name": "Tomato : Late Blight",
+    "description": "Late blight is caused by the oomycete Phytophthora infestans. Oomycetes are fungus-like organisms, often referred to as water molds. This disease is highly destructive, affecting leaves, stems, and fruits of tomato plants. It spreads quickly and can lead to total crop failure if untreated. Late blight of potato was responsible for the Irish potato famine of the 1840s.",
+    "possible_steps": [
+      "Sanitation is key: clean up all debris and fallen fruit",
+      "Inspect plants at least twice a week, especially during wet conditions",
+      "Remove infected plants immediately and destroy them",
+      "Apply fungicides containing maneb, mancozeb, chlorothalonil, or fixed copper to protect plants",
+      "For organic gardeners, use fixed copper products as approved",
+      "Repeat fungicide applications as necessary, especially during wet periods"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2W_OTEeGkN1Uhux2nXQbwfHTU3GAryEBBwg&s",
+    "symptoms": [
+      "Large, irregular dark lesions on leaves and stems",
+      "White fungal growth on the underside of leaves",
+      "Water-soaked, dark spots on fruit that become leathery and brown"
+    ],
+    "best_time_for_treatment": "Before symptoms appear or at the first sign of disease, especially during wet weather",
+    "affected_parts": ["Leaves", "Stems", "Fruit"],
+    "susceptible_crops": ["Tomatoes", "Potatoes"],
+    "severity_level": "High (can cause total crop loss if untreated)",
+    "environment_conditions": ["Cool, wet conditions with frequent rain"],
+    "regional_prevalence": "Common in regions with cool, wet climates, and during periods of extended wet weather",
+    "remedies": [
+      "Sanitize the garden by removing fallen debris and infected plants",
+      "Apply fungicides regularly during wet conditions",
+      "Use resistant tomato varieties if available"
+    ],
+    "preventive_measures": [
+      "Maintain proper garden hygiene by removing infected plant material",
+      "Apply fungicides early in the season as a preventative measure",
+      "Monitor plants frequently during wet conditions"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/disease-management/late-blight",
+    "common_mistakes": [
+      "Failure to inspect plants frequently",
+      "Infrequent fungicide application or using ineffective products",
+      "Not removing infected plant material from the garden"
+    ],
+    "treatment_duration": "Throughout the growing season, particularly during wet periods",
+    "treatment_cost": "Moderate to high, depending on fungicide choice and frequency of application",
+    "disease_transmission_method": "Through airborne spores from infected plant material or contaminated tools",
+    "cultural_practices": [
+      "Practice crop rotation to reduce soilborne pathogens",
+      "Use disease-resistant varieties if available"
+    ],
+    "impact_on_yield": "High, as late blight can devastate the crop if not controlled",
+    "treatment_effectiveness": "High if applied early and consistently during wet periods",
+    "signs_of_resistance": "Overuse of certain fungicides can lead to reduced effectiveness over time",
+    "nutrient_deficiencies_linked": "Properly nourished plants may have better resistance to diseases like late blight",
+    "post_treatment_care": "Continue to monitor for new infections and remove any diseased plants promptly",
+    "affected_region_seasons": "Spring through fall, especially in areas with prolonged periods of moisture",
+    "research_and_studies": [
+      "Studies on the control of late blight in tomatoes and potatoes",
+      "Research on fungicide resistance and the efficacy of organic treatments"
+    ]
+  },
+  "32": {
+    "disease_name": "Tomato : Leaf Mold",
+    "description": "Tomato leaf mold is a fungal disease that develops when there are extended periods of leaf wetness and high relative humidity (greater than 85%). It is commonly found in hoophouses and greenhouses, and can occur during early spring or summer temperatures. The disease thrives at temperatures in the low 70s Fahrenheit. Symptoms include yellow spots on the upper leaf surface and discrete masses of olive-green spores on the underside of the affected leaves. Calcium chloride-based sprays are recommended for treatment.",
+    "possible_steps": [
+      "Ensure adequate airflow to reduce humidity in greenhouses or hoophouses",
+      "Apply calcium chloride-based sprays or organic fungicides",
+      "Cover all plant surfaces, especially the underside of leaves, when applying fungicide"
+    ],
+    "image_url": "https://cdn.mos.cms.futurecdn.net/HUNQy44pDSpeJQ9jaTKdLK.jpg",
+    "symptoms": [
+      "Yellow spots on the upper leaf surface",
+      "Olive-green spores on the underside of leaves"
+    ],
+    "best_time_for_treatment": "During periods of high humidity or when symptoms first appear",
+    "affected_parts": ["Leaves"],
+    "susceptible_crops": ["Tomatoes"],
+    "severity_level": "Moderate to high (can reduce plant vigor and quality)",
+    "environment_conditions": [
+      "High humidity (>85%) and extended leaf wetness"
+    ],
+    "regional_prevalence": "Common in greenhouses and regions with high humidity",
+    "remedies": [
+      "Apply calcium chloride-based sprays or organic fungicides",
+      "Ensure proper airflow and reduce humidity",
+      "Regularly inspect plants for early signs of infection"
+    ],
+    "preventive_measures": [
+      "Maintain proper humidity and temperature levels in greenhouses",
+      "Space plants to improve airflow and reduce moisture buildup"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/disease-management/tomato-leaf-mold",
+    "common_mistakes": [
+      "Not controlling humidity or airflow in greenhouses",
+      "Failure to treat early or thoroughly"
+    ],
+    "treatment_duration": "As long as high humidity persists, especially in greenhouses",
+    "treatment_cost": "Moderate, depending on the fungicide and frequency of application",
+    "disease_transmission_method": "Through fungal spores spread by water or contact",
+    "cultural_practices": [
+      "Use organic fungicides as a preventative measure",
+      "Maintain good air circulation around plants"
+    ],
+    "impact_on_yield": "Moderate, depending on severity of the infection",
+    "treatment_effectiveness": "High when applied early and regularly during wet conditions",
+    "signs_of_resistance": "Overuse of fungicides may reduce effectiveness",
+    "nutrient_deficiencies_linked": "Balanced nutrition helps reduce plant stress and susceptibility to diseases",
+    "post_treatment_care": "Continue monitoring humidity and plant health, and reapply treatments if needed",
+    "affected_region_seasons": "Spring through fall, especially in regions with high humidity",
+    "research_and_studies": [
+      "Studies on calcium chloride applications and organic fungicides for tomato leaf mold control"
+    ]
+  },
+  "33": {
+    "disease_name": "Tomato : Septoria Leaf Spot",
+    "description": "Septoria leaf spot, caused by the fungus *Septoria lycopersici*, is one of the most destructive diseases of tomato foliage, particularly in wet, humid conditions. It typically starts on lower leaves after the first fruit sets. The disease is characterized by circular spots with dark brown margins and tan to gray centers, containing black fruiting structures. The disease spreads upwards, causing leaves to yellow, brown, and wither. Fruit infection is rare.",
+    "possible_steps": [
+      "Remove diseased leaves and improve air circulation around plants",
+      "Use mulch to reduce soil splashing and fungal spread",
+      "Apply fungicide sprays as a preventive measure",
+      "Avoid overhead watering and use drip irrigation to keep foliage dry"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmE4SdO5m0rknmW9itWJvREdLvaFbPpMVi-w&s",
+    "symptoms": [
+      "Circular spots with dark brown margins and tan to gray centers",
+      "Black fruiting bodies within spots",
+      "Yellowing and browning of affected leaves"
+    ],
+    "best_time_for_treatment": "Before the disease becomes widespread, especially during wet periods",
+    "affected_parts": ["Leaves"],
+    "susceptible_crops": ["Tomatoes"],
+    "severity_level": "High (can significantly reduce plant health and yield)",
+    "environment_conditions": ["Wet, humid conditions"],
+    "regional_prevalence": "Common in regions with high humidity and wet weather",
+    "remedies": [
+      "Use fungicidal sprays to protect plants",
+      "Remove and destroy infected leaves",
+      "Use mulch to prevent soil splash"
+    ],
+    "preventive_measures": [
+      "Ensure proper spacing for good airflow",
+      "Avoid overhead watering and irrigate early in the day"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/plant-diseases/tomato-leaf-spot-diseases",
+    "common_mistakes": [
+      "Overhead watering, which facilitates infection",
+      "Failure to remove infected plant material"
+    ],
+    "treatment_duration": "Throughout the growing season, particularly in humid conditions",
+    "treatment_cost": "Moderate, depending on fungicide choice and application frequency",
+    "disease_transmission_method": "Through fungal spores spread by water, tools, and infected plant material",
+    "cultural_practices": [
+      "Maintain garden hygiene by removing infected debris",
+      "Practice crop rotation to prevent soilborne infection"
+    ],
+    "impact_on_yield": "High, as extensive leaf damage reduces plant vigor and yields",
+    "treatment_effectiveness": "High when fungicides are applied early and consistently",
+    "signs_of_resistance": "Overuse of fungicides can reduce effectiveness over time",
+    "nutrient_deficiencies_linked": "Proper nutrition can help reduce susceptibility to diseases like Septoria leaf spot",
+    "post_treatment_care": "Monitor for any new signs of infection and reapply fungicides if needed",
+    "affected_region_seasons": "Spring through fall, particularly during wet conditions",
+    "research_and_studies": [
+      "Studies on the effectiveness of fungicides for Septoria leaf spot management"
+    ]
+  },
+  "34": {
+    "disease_name": "Tomato : Spider Mites | Two-Spotted Spider Mite",
+    "description": "The two-spotted spider mite is a common pest of vegetable and fruit crops, especially tomatoes, eggplant, and other vine crops. They thrive in dry, dusty conditions and can cause significant damage. The pests favor excess nitrogen and dry conditions, and their population can explode due to the use of broad-spectrum insecticides. Spider mites can have up to 20 generations per year, and early detection is key for control.",
+    "possible_steps": [
+      "Avoid weedy fields and planting eggplant near legume forage crops",
+      "Avoid broad-spectrum insecticides during early season to preserve natural predators",
+      "Do not over-fertilize, especially with nitrogen",
+      "Use overhead irrigation or allow rain to reduce mite populations"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHE4rZZCQRDQMavY-zlNzjZEwI7EncB-zcOQ&s",
+    "symptoms": [
+      "Yellowing or speckled appearance on leaves",
+      "Fine webbing on the undersides of leaves",
+      "Stunted plant growth"
+    ],
+    "best_time_for_treatment": "At the first sign of mite activity, typically during dry and dusty conditions",
+    "affected_parts": ["Leaves", "Stems"],
+    "susceptible_crops": [
+      "Tomatoes",
+      "Eggplants",
+      "Potatoes",
+      "Cucumbers",
+      "Melons"
+    ],
+    "severity_level": "High (can reduce plant vigor and yield)",
+    "environment_conditions": ["Dry, dusty conditions", "Excess nitrogen"],
+    "regional_prevalence": "Common in areas with dry climates, especially in New England",
+    "remedies": [
+      "Apply insecticidal soap or miticides",
+      "Increase humidity or use overhead irrigation to reduce mite populations",
+      "Encourage natural predators (e.g., ladybugs)"
+    ],
+    "preventive_measures": [
+      "Maintain balanced fertilization, especially nitrogen",
+      "Avoid early broad-spectrum insecticide use"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/yard-and-garden-insects/spider-mites",
+    "common_mistakes": [
+      "Over-fertilizing with nitrogen",
+      "Not monitoring for early signs of mite infestation"
+    ],
+    "treatment_duration": "During dry seasons or periods of mite activity",
+    "treatment_cost": "Moderate, depending on treatment method",
+    "disease_transmission_method": "By wind, water, and physical contact",
+    "cultural_practices": [
+      "Use integrated pest management (IPM) practices",
+      "Rotate crops to reduce mite buildup"
+    ],
+    "impact_on_yield": "Moderate to high, depending on severity",
+    "treatment_effectiveness": "High when treatments are applied early",
+    "signs_of_resistance": "Mite resistance to certain insecticides can develop over time",
+    "nutrient_deficiencies_linked": "Excess nitrogen can encourage mite growth",
+    "post_treatment_care": "Monitor for any recurring mite activity and apply additional treatments if necessary",
+    "affected_region_seasons": "Most common during dry, dusty periods, especially in late summer",
+    "research_and_studies": [
+      "Studies on the effectiveness of insecticidal soaps and miticides for controlling two-spotted spider mites"
+    ]
+  },
+
+  "35": {
+    "disease_name": "Tomato : Target Spot",
+    "description": "Target spot disease begins on the older leaves and spreads upward. The initial signs include irregular-shaped spots with a yellow margin, which can enlarge to 10 mm and display concentric rings, giving rise to the name 'target spot.' The disease causes rapid leaf yellowing, collapse, and death, and can also affect stems and fruit. It spreads quickly in wet, windy conditions, especially if left unchecked.",
+    "possible_steps": [
+      "Avoid planting new crops near older infected plants",
+      "Remove and destroy infected plant material, including lower leaves",
+      "Ensure good airflow around plants by pruning lower branches",
+      "Avoid overhead irrigation to reduce spore production",
+      "Practice crop rotation and leave 3 years before replanting tomatoes"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl-T6wnBLnk_MOmIqjwkyNlMuDTZJd0g0MYg&s",
+    "symptoms": [
+      "Irregular-shaped spots with yellow margins",
+      "Enlarged spots up to 10 mm with concentric rings",
+      "Yellowing, collapsing, and death of leaves",
+      "Spots on stems and small dark brown spots on fruit"
+    ],
+    "best_time_for_treatment": "As soon as symptoms appear, particularly during wet, windy weather",
+    "affected_parts": ["Leaves", "Stems", "Fruits"],
+    "susceptible_crops": ["Tomatoes"],
+    "severity_level": "High (can cause rapid defoliation and loss of fruit quality)",
+    "environment_conditions": ["Wet, windy weather"],
+    "regional_prevalence": "Common in regions with frequent rainfall and humid conditions",
+    "remedies": [
+      "Remove and destroy infected plant material",
+      "Apply fungicides to control the spread of spores",
+      "Practice crop rotation to prevent recurrence"
+    ],
+    "preventive_measures": [
+      "Ensure proper spacing for good air circulation",
+      "Remove lower leaves and excess vegetation",
+      "Do not use overhead irrigation"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/disease-management/early-blight-tomato-and-potato",
+    "common_mistakes": [
+      "Failure to remove infected plant material",
+      "Using overhead irrigation, which promotes fungal spread"
+    ],
+    "treatment_duration": "Throughout the growing season, particularly in wet, windy weather",
+    "treatment_cost": "Moderate to high, depending on fungicide application",
+    "disease_transmission_method": "Through wind-blown rain and contact with infected plant material",
+    "cultural_practices": [
+      "Remove infected leaves and plant material immediately",
+      "Ensure proper crop rotation to prevent soilborne spores"
+    ],
+    "impact_on_yield": "High, with defoliation and reduced fruit quality",
+    "treatment_effectiveness": "High when applied early and continuously in wet conditions",
+    "signs_of_resistance": "Overuse of fungicides may lead to reduced efficacy",
+    "nutrient_deficiencies_linked": "Proper nutrition can help reduce plant stress and susceptibility to diseases",
+    "post_treatment_care": "Continue monitoring for new outbreaks and reapply treatments if needed",
+    "affected_region_seasons": "Spring through fall, especially in humid and rainy conditions",
+    "research_and_studies": [
+      "Studies on fungicide efficacy and cultural practices for managing target spot"
+    ]
+  },
+  "36": {
+    "disease_name": "Tomato : Yellow Leaf Curl Virus",
+    "description": "Tomato yellow leaf curl virus (TYLCV) is a severe disease caused by a virus from the genus Begomovirus. TYLCV infection results in stunted growth, yellowing leaves, and severe yield losses. It is primarily spread by the sweetpotato whitefly (Bemisia tabaci). Although resistant cultivars are available, they are not immune and can still develop systemic infections. The virus can adapt over time, especially when the same resistance genes are used extensively.",
+    "possible_steps": [
+      "Use virus- and whitefly-free transplants",
+      "Treat transplants with bifenthrin (Capture) or dinotefuran (Venom) for whitefly adults",
+      "Treat transplants with Oberon for whitefly eggs and nymphs",
+      "Apply Imidacloprid or thiamethoxam in transplant houses before shipping",
+      "Rotate treatments with Abamectin to prevent whitefly resistance buildup"
+    ],
+    "image_url": "https://www.syngenta.co.in/sites/g/files/kgtney376/files/media/image/2022/11/11/770x540_yellow_leaf_curl.jpg",
+    "symptoms": [
+      "Yellowing of leaves",
+      "Stunted plant growth",
+      "Curling of leaves",
+      "Reduced yield and marketable fruit"
+    ],
+    "best_time_for_treatment": "Before planting, treat transplants with appropriate chemicals to prevent whitefly infection",
+    "affected_parts": ["Leaves", "Stems", "Fruit"],
+    "susceptible_crops": ["Tomatoes", "Peppers"],
+    "severity_level": "High (can lead to total crop loss if not managed)",
+    "environment_conditions": [
+      "Hot, dry climates with high whitefly populations"
+    ],
+    "regional_prevalence": "Worldwide, especially in areas with significant whitefly populations",
+    "remedies": [
+      "Use resistant cultivars when possible",
+      "Apply chemical treatments to control whiteflies",
+      "Practice proper sanitation and pest management"
+    ],
+    "preventive_measures": [
+      "Ensure transplants are virus- and whitefly-free",
+      "Avoid planting near previous crops infected with TYLCV"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/plant-diseases/viruses-backyard-fruit",
+    "common_mistakes": [
+      "Using resistant cultivars exclusively without rotating genes",
+      "Neglecting to control whiteflies early"
+    ],
+    "treatment_duration": "Continuous throughout the growing season",
+    "treatment_cost": "Moderate to high, depending on the use of chemicals and management practices",
+    "disease_transmission_method": "Spread by whiteflies and infected plant material",
+    "cultural_practices": [
+      "Remove infected plants and debris",
+      "Rotate crops to prevent virus buildup"
+    ],
+    "impact_on_yield": "Very high, with significant losses in both yield and quality",
+    "treatment_effectiveness": "Effective when chemical control of whiteflies is implemented early",
+    "signs_of_resistance": "Resistance can develop in whitefly populations if the same chemicals are used too frequently",
+    "nutrient_deficiencies_linked": "Nutrient stress can increase susceptibility to virus infections",
+    "post_treatment_care": "Monitor for re-infection and treat promptly if necessary",
+    "affected_region_seasons": "Most problematic during hot and dry seasons when whitefly populations peak",
+    "research_and_studies": [
+      "Studies on the development of TYLCV-resistant tomato varieties"
+    ]
+  },
+  "37": {
+    "disease_name": "Tomato : Mosaic Virus",
+    "description": "Tomato mosaic virus (ToMV) and Tobacco mosaic virus (TMV) are often confused. ToMV causes yellowing, stunting, and uneven ripening in tomatoes, while TMV typically affects tobacco. ToMV results in mottled leaves and stunted growth, severely reducing yield and fruit quality. Early infection may lead to stunted plants, curled leaves, and reduced fruit size.",
+    "possible_steps": [
+      "Use certified disease-free seeds or treat your own seeds",
+      "Soak seeds in a 10% solution of trisodium phosphate (Na3PO4) for 15 minutes",
+      "Heat treat seeds by drying them to 158 °F for 2-4 days",
+      "Purchase transplants from reputable sources with good sanitation procedures",
+      "Inspect transplants for symptoms before planting",
+      "Avoid planting in fields with previous tomato root debris"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqI0OQvi3XIzjqXnABcPlFtuyAFWt6agCrw&s",
+    "symptoms": [
+      "Mottled light and dark green on leaves",
+      "Stunted growth and yellowing of young leaves",
+      "Curled and malformed leaves",
+      "Uneven ripening of fruit"
+    ],
+    "best_time_for_treatment": "Before planting, use disease-free seeds and inspect transplants carefully",
+    "affected_parts": ["Leaves", "Stems", "Fruits"],
+    "susceptible_crops": ["Tomatoes"],
+    "severity_level": "Moderate to high (can cause stunting and reduced fruit quality)",
+    "environment_conditions": ["Wet conditions, especially in warm climates"],
+    "regional_prevalence": "Common in regions where tobacco mosaic virus and tomato mosaic virus overlap",
+    "remedies": [
+      "Use disease-free seed and transplants",
+      "Sanitize tools and equipment regularly",
+      "Remove infected plants and debris to prevent spread"
+    ],
+    "preventive_measures": [
+      "Avoid handling plants when wet to reduce spread",
+      "Implement crop rotation and sanitation practices"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/disease-management/tomato-viruses",
+    "common_mistakes": [
+      "Planting infected seeds or transplants",
+      "Neglecting sanitation between planting and harvest"
+    ],
+    "treatment_duration": "During the entire growing season, particularly in fields with a history of infection",
+    "treatment_cost": "Low to moderate, primarily focused on preventing infection through seed treatment and sanitation",
+    "disease_transmission_method": "Spread by infected seed, transplants, and contaminated equipment",
+    "cultural_practices": [
+      "Remove infected plants immediately",
+      "Practice crop rotation to break the disease cycle"
+    ],
+    "impact_on_yield": "High, with potential yield loss and fruit quality reduction",
+    "treatment_effectiveness": "Effective when using disease-free seeds and practicing proper sanitation",
+    "signs_of_resistance": "No known resistance, prevention is key",
+    "nutrient_deficiencies_linked": "Nutrient deficiencies may exacerbate symptoms of virus infection",
+    "post_treatment_care": "Maintain good field sanitation and monitor for new outbreaks",
+    "affected_region_seasons": "Present year-round in areas with persistent warm conditions",
+    "research_and_studies": [
+      "Research on seed treatments and sanitation protocols for ToMV prevention"
+    ]
+  },
+  "38": {
+    "disease_name": "Tomato : Healthy",
+    "description": "Tomato (Solanum lycopersicum) is a fruit from the nightshade family native to South America. Although botanically a fruit, tomatoes are typically used as vegetables in cooking. They are an excellent source of lycopene, an antioxidant linked to numerous health benefits, including reduced risk of heart disease and cancer. Tomatoes are also rich in vitamin C, potassium, folate, and vitamin K, contributing to overall health.",
+    "possible_steps": [
+      "Fertilize one week before and on the day of planting, especially with phosphorus to promote blossoms and fruit growth",
+      "Avoid excessive nitrogen, which promotes vine growth instead of fruit production",
+      "Ensure tomato seedlings have plenty of space to grow and are not crowded",
+      "Provide adequate sunlight for optimal growth",
+      "Preheat the garden soil before planting",
+      "Bury the stems of tomato plants to encourage root development",
+      "Mulch after the soil has warmed to maintain moisture and temperature",
+      "Remove the bottom leaves to improve airflow and reduce disease risks",
+      "Pinch and prune to encourage more fruit production",
+      "Water the plants regularly to maintain consistent moisture levels"
+    ],
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnDZONGtc8IW0ddAatySAu9o0qP926hCezJA&s",
+    "symptoms": [
+      "Healthy, vigorous growth",
+      "Abundant blossoms leading to fruit formation",
+      "Rich, deep green leaves"
+    ],
+    "best_time_for_treatment": "Before planting and during the growing season for consistent maintenance",
+    "affected_parts": ["Leaves", "Stems", "Fruit"],
+    "susceptible_crops": ["Tomatoes"],
+    "severity_level": "Low (this refers to healthy plant care, not a disease)",
+    "environment_conditions": [
+      "Warm temperatures and plenty of sunlight",
+      "Well-drained, fertile soil"
+    ],
+    "regional_prevalence": "Global, grown in various climates with appropriate care",
+    "remedies": [
+      "Fertilization with phosphorus",
+      "Regular pruning and staking",
+      "Consistent watering and proper spacing"
+    ],
+    "preventive_measures": [
+      "Plant in a location with sufficient sunlight",
+      "Use proper spacing and avoid crowding"
+    ],
+    "link_to_detailed_guide": "https://extension.umn.edu/disease-management/early-blight-tomato-and-potato",
+    "common_mistakes": [
+      "Over-fertilizing with nitrogen",
+      "Crowding the plants too close together",
+      "Inconsistent watering leading to dry or overly wet soil"
+    ],
+    "treatment_duration": "Throughout the growing season with periodic maintenance",
+    "treatment_cost": "Low, mainly involves fertilizer, water, and care efforts",
+    "disease_transmission_method": "Not applicable as this refers to healthy plant care",
+    "cultural_practices": [
+      "Practice crop rotation and avoid replanting tomatoes in the same spot each year",
+      "Regularly inspect for pests and diseases"
+    ],
+    "impact_on_yield": "High, with proper care and maintenance leading to good fruit production",
+    "treatment_effectiveness": "High, if care and cultural practices are followed",
+    "signs_of_resistance": "No resistance issues, as this refers to general healthy care"
+  }
+}
